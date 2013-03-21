@@ -1,0 +1,54 @@
+{
+    "stack": [
+        {
+            "ID": "35",
+            "name": "Adigami",
+            "details": "<p>A number of significant developments over the past 5 years have propelled us into what some call an API economy… APIGEE has a <a title=\"The API Economy\" href=\"http://apigee.com/about/api-best-practices/app-economy-5-minutes\" target=\"_blank\">great video</a> explaining this and is definitely worth seeing. In a nutshell, because of the rapid proliferation of devices and apps, if you have some data that is remotely useful, it needs to be accessible through an API. This has led many companies – big and small – to develop proprietary APIs that are either public or accessible to partners.</p>\n<p>While API technology has also matured over the past 5-10 years, developing applications against an API (or a set of APIs) is still not easy. Some of the more established APIs are not necessarily the most modern in design, which makes integration a challenge requiring time and valuable resources. Often these happen to be important APIs that many people <em>have to</em> integrate with.</p>\n<p>So there’re two main problems here: First, there are too many APIs, and second, many are not easy to integrate with. There’s actually a third – hidden but significant – issue in that there isn’t enough uniformity in the syntax and semantics of APIs even within a single industry. While <a title=\"Representational State Transfer\" href=\"http://en.wikipedia.org/wiki/Representational_state_transfer\" target=\"_blank\">REST</a> has done a lot to improve this situation, there’re no “enforced” rules governing syntax and semantics.</p>\n<p>Fortunately, we believe there is an elegant solution that addresses these problems, and we call it API Aggregation. The idea is to bring key APIs within an industry under a single umbrella. It would act as a gateway to the data available through those APIs by providing a single uniform and modern API. The ease and speed of integration that this approach provides are significant. Improvement in time-to-market and access to the pool of untapped data can open up many possibilities.</p>\n<p>API aggregation actually solves a fourth problem that can be a show-stopper in any API integration project. APIs change all the time and keeping up with the change is not easy. By shifting the burden of upkeep to a single provider, developers can rest assured that their work doesn’t break and they can stay focused on data analysis and visualization, rather than data collection and integration.</p>",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/adigami-logo.png",
+            "website": "http://www.adigami.com/",
+            "blog": "http://www.adigami.com/blog/",
+            "blogrss": "",
+            "twitter": ""
+        },
+        {
+            "ID": "37",
+            "name": "Deltacloud",
+            "details": "<p>Deltacloud provides the API server and drivers necessary for connecting to cloud providers.</p>\n<p>Deltacloud maintains <strong>long-term stability </strong>for scripts, tools and applications and <strong>backward compatibility</strong> across different versions.</p>\n<p>Using single API Deltacloud enables management of resources in different clouds.</p>\n<p>Start an instance on an internal cloud, then with the same code start another on EC2 or RHEV-M.</p>",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/delta_cloud_small.jpg",
+            "website": "http://deltacloud.apache.org/",
+            "blog": "",
+            "blogrss": "",
+            "twitter": ""
+        },
+        {
+            "ID": "36",
+            "name": "FedAPI",
+            "details": "<p>Government data in easy to consume APIs. There is so much government data across the internet, but it is difficult to make sense of it all. Budget data, procurement data, acquisition data, you name it, it's out there on the web.</p>\n<p>Our goal is to capture, correlate, and make data easily available to enterprise and government application developers through easy to use APIs.</p>",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Fed-API-Logo-2.png",
+            "website": "http://fedapi.com/",
+            "blog": "",
+            "blogrss": "",
+            "twitter": ""
+        },
+        {
+            "ID": "116",
+            "name": "Segment.io",
+            "details": "<p><span>Segment.io lets you send your analytics data to any service you want, without you having to integrate with each one individually.</span></p>",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/segment-io-logo.png",
+            "website": "https://segment.io/",
+            "blog": "https://segment.io/blog/",
+            "blogrss": "",
+            "twitter": "https://twitter.com/segmentio"
+        },
+        {
+            "ID": "34",
+            "name": "Singly",
+            "details": "<p><span>Singly provides the fabric for today’s most connected apps, empowering a new class of developers to create powerful new apps. Using our world class app connection platform, app creators can build remarkable in-app experiences with social integration, auth, data syncing, structuring and querying capabilities, all with ease. Developers are changing the world and Singly is helping them do it.</span></p>",
+            "logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/singly-logo_300.png",
+            "website": "https://singly.com/",
+            "blog": "http://blog.singly.com",
+            "blogrss": "",
+            "twitter": ""
+        }
+    ]
+}

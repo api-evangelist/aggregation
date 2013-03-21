@@ -1,0 +1,51 @@
+{
+    "news": [
+        {
+            "title": "YC-Backed Segment.io Lets Developers Integrate With Multiple Analytics Providers In Hours, Not Weeks",
+            "details": "  Sarah currently works as a writer for TechCrunch, after having previously spent over three years at ReadWriteWeb.  Prior to becoming a professional blogger, Sarah worked in I.  T.  across a number of industries, including banking, retail and software.  → Learn More",
+            "item_date": "Jan 25 2013 23:29:58",
+            "display_item_date": "01-25-2013",
+            "url": "http://techcrunch.com/2013/01/25/yc-backed-segment-io-lets-developers-integrate-with-multiple-analytics-providers-in-hours-not-weeks/",
+            "source": "techcrunch.com",
+            "tags": "Aggregation, Analytics, API-Evangelist, API-Stack, googlereader, hacker, ifttt, News"
+        },
+        {
+            "title": "DeltaCloud API as a Service",
+            "details": "  I am a programmer and entrepreneur, with a focus on the business of APIs.  I study how APIs are changing the business landscape, and the rise of API driven developer ecosystems.  I share my insights by blogging on API Evangelist and ProgrammableWeb, and put into action as API evangelist for CityGrid.  Kin is a DZone MVB and is not an employee of DZone and has posted 54 posts at DZone.  You can read more from them at their website.",
+            "item_date": "Dec 19 2012 02:05:37",
+            "display_item_date": "12-18-2012",
+            "url": "http://cloud.dzone.com/news/deltacloud-api-service",
+            "source": "cloud.dzone.com",
+            "tags": "Aggregation"
+        },
+        {
+            "title": "API Copyright Would Restrict API Aggregation",
+            "details": "  There are over 8100 in the ProgrammableWeb API directory.  We are at a point where aggregating common, popular APIs into single, standardized interfaces is emerging as the next evolution in web and mobile app development.  To support common patterns in web and mobile app development like user management, object storage, image management, social integration and analytics, API aggregation platforms are emerging.  Examples of aggregation of APIs are across business sectors like:\n Singly for Personal Data\n Adigami for Analytics Data\n FedAPI for Government Data\n \nThese API aggregation platforms are looking to take multiple API resources and aggregate them into a single, common API interface that developers can use across multiple platforms.  These common API interfaces may possess the best features across aggregated APIs as well as introducing in new design features.",
+            "item_date": "Dec 19 2012 02:04:03",
+            "display_item_date": "12-18-2012",
+            "url": "http://apivoice.com/2012/12/08/api-copyright-would-restrict-api-aggregation/",
+            "source": "apivoice.com",
+            "tags": "Aggregation"
+        },
+        {
+            "title": "Alcatel-Lucent: New API Aggregation Model To Accelerate Revenue Opportunities | Ubergizmo",
+            "details": "  [MWC 2010] Today Alcatel-Lucent announced a new cloud based developer platform that will drastically change the traditional API (application programming interface) aggregation model, according to the company.  Alcatel-Lucent’s developer platform provides service providers and enterprises with tools that enable partners and third-party developers to build, test, manage and distribute applications across networks, including television, broadband Internet and mobile.  The company claims that its new platform will make the application development process more efficient, will accelerate the distribution across networks and will boost the whole ecosystem revenue.  To achieve this goal, Alcatel Lucent is launching a set of developer tools including a Virtual SandBox and a Dashboard.  Additionally, the new platform will offer a bundling model for revenue sharing, combining a collection of two or more APIs/Web services that developers can use to create a new application, eliminating the upfront API fees traditionally required.",
+            "item_date": "Dec 19 2012 02:03:35",
+            "display_item_date": "12-18-2012",
+            "url": "http://www.ubergizmo.com/2010/02/alcatel-lucent-new-api-aggregation-model-to-accelerate-revenue-opportunities/",
+            "source": "www.ubergizmo.com",
+            "tags": "Aggregation"
+        },
+        {
+            "title": "Four problems facing the API economy",
+            "details": "  A number of significant developments over the past 5 years have propelled us into what some call an API economy… APIGEE has a great video explaining this and is definitely worth seeing.  In a nutshell, because of the rapid proliferation of devices and apps, if you have some data that is remotely useful, it needs to be accessible through an API.  This has led many companies – big and small – to develop proprietary APIs that are either public or accessible to partners.  While API technology has also matured over the past 5-10 years, developing applications against an API (or a set of APIs) is still not easy.  Some of the more established APIs are not necessarily the most modern in design, which makes integration a challenge requiring time and valuable resources.",
+            "item_date": "Dec 19 2012 02:02:19",
+            "display_item_date": "12-18-2012",
+            "url": "http://www.adigami.com/four-problems-facing-the-api-economy/",
+            "source": "www.adigami.com",
+            "tags": "Aggregation"
+        }
+    ],
+    "published": "03/20/2013",
+    "newscount": 5
+}
