@@ -1,11 +1,4 @@
----
-layout: post
-title: A Look at the Future of Data APIs
-url: http://www.apievangelist.com/2011/09/01/a-look-at-the-future-of-data-apis/
-source: http://www.apievangelist.com/2011/09/01/a-look-at-the-future-of-data-apis/
-domain: www.apievangelist.com
----
-{% include JB/setup %}<p>I finally made some time to write up a review of the new Infochimps Geo API, and I think their approach gives us a glimpse at the future of data APIs.With the new Infochimps Geo API, Infochimps provides some very important features for developers:
+<p>I finally made some time to write up a review of the new Infochimps Geo API, and I think their approach gives us a glimpse at the future of data APIs.With the new Infochimps Geo API, Infochimps provides some very important features for developers:
 
 	Aggregation of data from multiple sources
 	Tying together with a simple schema
