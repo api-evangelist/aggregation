@@ -12,3 +12,22 @@ title: API Aggregation
 <p><a href="http://singly.com/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/singly-logo_300.png" align="right" width="200" style="padding: 15px;" /></a></p> 
 <p>There are other providers similar to Singly in the space, companies like <a href="http://adigami.com" target="_blank">Adigami</a> who aggregate Advertising APIs and <a href="http://fedapi.com" target="blank">FedAPI</a> for Government APIs.  This is nothing new,  we've seen the similar approach in cloud computing by providers like <a href="http://deltacloud.apache.org/" target="_blank">Delta Cloud</a>.</p> 
 <p>In this section i will be tracking news and companies that are doing interesting things around API aggregation, while also sharing blog analysis I provide on aggregation.</p>
+
+{% raw  %}
+<script id="companyListingTemplate" type="text/template">       
+    <li style="list-style: none; padding: 30px; border: 0px solid #000;">
+        <a href="companies-detail.html?id={{id}}"><img src="{{logo}}" width="200" align="left" style="padding: 15px;" /></a>
+        <a href="companies-detail.html?id={{id}}" style="color: #000;"><strong>{{name}}</strong></a> - {{summary}}... <a href="companies-detail.html?id={{id}}">details</a>.
+    </li>                                                                                               
+</script>
+{% endraw %}
+
+<p><a id="jsonlink" href="data/companies.json" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-json-data-store.png" align="right" width="50" style="padding-top: 10px;" /></a></p>
+<h1>API Aggregation Companies</h1>
+<div style="padding-left: 10px; padding-right: 10px; width:550px;">
+     <ul id="companyListing" style="padding-left: 30px;"></ul>
+</div>  
+
+<script type="text/javascript">
+listCompanies();
+</script>
