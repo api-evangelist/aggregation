@@ -4,7 +4,7 @@ title: Jolidrive for iPad and iPhone
 url: http://www.jolicloud.com/blog/2013/07/04/jolidrive-for-ipad-and-iphone/
 source: http://www.jolicloud.com/blog/2013/07/04/jolidrive-for-ipad-and-iphone/
 domain: www.jolicloud.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/10525_www_jolicloud_com.png
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/www-jolicloud-comblog20130704jolidrive-for-ipad-and-iphone.png
 ---
 
 <p>Today we are very excited to introduce Jolidrive for iOS.Jolidrive is now available on the App Store, for both iPhone and iPad.We created Jolidrive to give you the power to access all your content scattered across multiple services in one place.Exploring your content, music, photos, videos and documents has never been easier.With Jolidrive for iPhone and iPad, your personal cloud is just one touch away.</p>
