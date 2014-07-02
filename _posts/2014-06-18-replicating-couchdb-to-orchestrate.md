@@ -1,0 +1,12 @@
+---
+layout: post
+title: Replicating CouchDB to Orchestrate
+url: http://orchestrate.io/blog/2014/06/18/replicating-couchdb-to-orchestrate/
+source: http://orchestrate.io/blog/2014/06/18/replicating-couchdb-to-orchestrate/
+domain: orchestrate.io
+image: 
+---
+
+<p>I love CouchDB.It’s a NoSQL database that, like Orchestrate, lets you work with your data over HTTP.Many data sets, like the entirety of NPM‘s metadata and every law in Massachusetts, are stored in CouchDB.With the release of orchestrate-couchdb, you can now replicate CouchDB databases into Orchestrate collections.Why would you do that?</p>
+<center><p><a href="http://orchestrate.io/blog/2014/06/18/replicating-couchdb-to-orchestrate/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+
