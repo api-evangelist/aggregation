@@ -3,7 +3,6 @@ layout: page
 title: API Aggregation
 ---
 
-<h1>API Aggregation</h1>
 <p><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/trends/aggregation-trend.png" width="250" align="right" style="padding: 15px;" /></p>
 <p>We are depending on more APIs to drive our web and mobile applications. Even with the simplicity of indiviual web APIs, developing an application around multiple APIs can be very time consuming.</p>
 <p>In the course of developing a common mobile application a developer may end up using 10-15 APIs--APis for storage, images, email, SMS, voice, etc. Making development costs grow with each additional API.</p>
@@ -11,26 +10,3 @@ title: API Aggregation
 <p>Innovative startups like <a href="http://singly.com/" target="_blank">Singly</a> apply these concepts with social and personal data, combining services like Twitter, Facebook, LinkedIn, Instagram and other services into single services.  Singly's goal is to shorten time for developers to get to finished app, by providing devs a fabric that weaves together common objects like friends, images, status and checkin into a aggregate API platform.</p>
 <p>There are other providers similar to Singly in the space, companies like <a href="http://adigami.com" target="_blank">Adigami</a> who aggregate Advertising APIs and <a href="http://fedapi.com" target="blank">FedAPI</a> for Government APIs.  This is nothing new,  we've seen the similar approach in cloud computing by providers like <a href="http://deltacloud.apache.org/" target="_blank">Delta Cloud</a>.</p> 
 <p>In this section i will be tracking news and companies that are doing interesting things around API aggregation, while also sharing blog analysis I provide on aggregation.</p>
-
-<hr />                
-              
-{% for post in site.posts limit:2 %}
-<div class="post">
-    
-    <p><a href="{{ post.source }}" rel="bookmark" title="{{ post.title }}" style="color:#000;"><h4><strong>{{ post.title }}</strong></h4></a> (<i><strong><span class="small">Posted on</span> <span class="post-date">{{ post.date | date:"%m-%d-%Y" }}</span></strong></i>)
-    <p><a href="{{ post.source }}" rel="bookmark" title="{{ post.title }}"><img src="{{ post.image }}" width="175" align="left" style="padding: 15px;" /></a></p>
-    <p>{{ post.content | strip_html | truncatewords: 100 }}...<a href="{{ post.source }}" rel="bookmark" title="{{ post.title }}" style="color:#000; font-weight: bold;">read more</a>.</p>
-    <br />
-    <hr />     
-   
-</div> 
-{% endfor %}  
-
-<br /><br />
-<!-- 3scale -->
-<p align="center">
-<a href="http://3scale.net" target="_blank" title="APIs From 3Scale">
-    <img src="https://s3.amazonaws.com/kinlane-productions/api-service-providers/3Scale/empowered-by-3scale.png" width="300" style="padding-bottom: 15px;" />
-</a>        
-</p>
-<!-- 3scale -->  
