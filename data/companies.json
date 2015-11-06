@@ -1,7 +1,7 @@
 [
 	{
 		"id": "MVn3IlJ9116HQjkefvNKsdIIqClTwkIAWs3cl9B0f3DOYT1231165eywMlcC6ugOUNGSZ1GJVv4AxI9r0nhs2ANtNcbQ117117",
-		"name": "APIBond",
+		"name": "apibond.com",
 		"summary": "APIBond is an API management platform that acts as a proxy where you can validate, transform, secure, analyze and scale any existing API.",
 		"details": "APIBond is an API management platform that acts as a proxy where you can validate, transform, secure, analyze and scale any existing API.",
 		"website": "http://apibond.com/",
@@ -17,8 +17,8 @@
 	{
 		"id": "qTtwxLxopV3moiJirhvKh03mRKbUN1W116cITnUGZdBmsesfjr3sCvlgloPnSvQwkVyqiyaq4tI8m8cRDBX7hbyQ117117",
 		"name": "Cloud Elements",
-		"summary": "Cloud Elements was built to simplify cloud application integrations and enable application developers to deliver &ldquo;Cooperative Apps&rdquo;. We use a &ldquo;one-to-many&rdquo; approach to connect your application with entire categories of cloud applications, each through a single API. Our clients include startups, SaaS vendors and departments of enterprises who want to provide their customers ",
-		"details": "Cloud Elements was built to simplify cloud application integrations and enable application developers to deliver &ldquo;Cooperative Apps&rdquo;. We use a &ldquo;one-to-many&rdquo; approach to connect your application with entire categories of cloud applications, each through a single API. Our clients include startups, SaaS vendors and departments of enterprises who want to provide their customers with more integration options, faster and for a fraction of the cost. Our awesome team is rapidly building connections to the most popular cloud applications that your customers are using. After just one year in business, we were named APEX Technology Startup of 2013. Cloud Elements is based in Denver, Colorado, but our business reaches customers worldwide.",
+		"summary": "Cloud Elements was built to simplify cloud application integrations and enable application developers to deliver u201cCooperative Appsu201d. We use a u201cone-to-manyu201d approach to connect your application with entire categories of cloud applications, each through a single API. Our clients include startups, SaaS vendors and departments of enterprises who want to provide their customers with mor",
+		"details": "Cloud Elements was built to simplify cloud application integrations and enable application developers to deliver u201cCooperative Appsu201d. We use a u201cone-to-manyu201d approach to connect your application with entire categories of cloud applications, each through a single API. Our clients include startups, SaaS vendors and departments of enterprises who want to provide their customers with more integration options, faster and for a fraction of the cost. Our awesome team is rapidly building connections to the most popular cloud applications that your customers are using. After just one year in business, we were named APEX Technology Startup of 2013. Cloud Elements is based in Denver, Colorado, but our business reaches customers worldwide.",
 		"website": "http://www.cloud-elements.com/",
 		"twitter": "https://twitter.com/CloudElements1",
 		"github": "https://github.com/cloud-elements",
@@ -95,28 +95,13 @@
 		"summary": "Outbound is a automated messaging solution for product and marketing folks. The platform enables you to deliver the content you need, using templates for formatting and includion of customer data. The Outbound API allows you to create deliver rules around events, and when the even triggers Outbound tells your channel provider to deliver the customized message.",
 		"details": "Outbound is a automated messaging solution for product and marketing folks. The platform enables you to deliver the content you need, using templates for formatting and includion of customer data. The Outbound API allows you to create deliver rules around events, and when the even triggers Outbound tells your channel provider to deliver the customized message.",
 		"website": "http://outbound.io/",
-		"twitter": "",
-		"github": "",
+		"twitter": "https://twitter.com/OutboundIO",
+		"github": "https://github.com/outboundio",
 		"blog": "http://blog.outbound.io/",
 		"blogrss": "http://blog.outbound.io/rss",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/outbound-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/outbound-logo.png",
-		"tags": null
-	},
-	{
-		"id": "w62j1L3uiKYwUD1164WAlj0g754Wq98n116hwb8UgMKxK0OjjRJONBsfaYk123F228kC3cZ9q17s85UlY79ubC116z4E116A117117",
-		"name": "TaDaweb",
-		"summary": "The TaDaweb Creator lets you create advanced web recipes. A web recipe can be compared to an automatic process that collects, transforms, and combines information. They are quick and easy to create because they are based on human, rather than computer logic. Recipes can be created by users, with TaDaweb also providing the option to create recipes on demand.",
-		"details": "The TaDaweb Creator lets you create advanced web recipes. A web recipe can be compared to an automatic process that collects, transforms, and combines information. They are quick and easy to create because they are based on human, rather than computer logic. Recipes can be created by users, with TaDaweb also providing the option to create recipes on demand.",
-		"website": "http://www.tadaweb.com/",
-		"twitter": "",
-		"github": "",
-		"blog": "",
-		"blogrss": "",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tadaweb-logo.png",
-		"logo_width": "150",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tadaweb-logo.png",
 		"tags": null
 	},
 	{
@@ -132,21 +117,6 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/treeline-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/treeline-logo.png",
-		"tags": null
-	},
-	{
-		"id": "CKsfD8jcvgN72GePInPyilKRI545GaaCDFBsjtiXt4l6nigpvm8ZS116KX2123sa61llVi56rTm0uZzH5apFbpf1237g117117",
-		"name": "Venn",
-		"summary": "We are creating the next-generation mobile development platform in Cincinnati, OH. We know that to build a powerful app, you rely on third party services, and Venn provides a centralized authority into each of these services. We strive to empower developers around the globe. Venn provides full-stack solutions for API integration management, feature redundancy, data security, version control, perfo",
-		"details": "We are creating the next-generation mobile development platform in Cincinnati, OH. We know that to build a powerful app, you rely on third party services, and Venn provides a centralized authority into each of these services. We strive to empower developers around the globe. Venn provides full-stack solutions for API integration management, feature redundancy, data security, version control, performance monitoring and usage analytics.",
-		"website": "https://www.getvenn.io/",
-		"twitter": "",
-		"github": "",
-		"blog": "http://blog.getvenn.io/",
-		"blogrss": "http://blog.getvenn.io/rss/",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/venn-logo.png",
-		"logo_width": "150",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/venn-logo.png",
 		"tags": null
 	},
 	{
