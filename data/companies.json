@@ -1,9 +1,24 @@
 [
 	{
-		"id": "9066",
+		"id": "MVn3IlJ9116HQjkefvNKsdIIqClTwkIAWs3cl9B0f3DOYT1231165eywMlcC6ugOUNGSZ1GJVv4AxI9r0nhs2ANtNcbQ117117",
+		"name": "APIBond",
+		"summary": "APIBond is an API management platform that acts as a proxy where you can validate, transform, secure, analyze and scale any existing API.",
+		"details": "APIBond is an API management platform that acts as a proxy where you can validate, transform, secure, analyze and scale any existing API.",
+		"website": "http://apibond.com/",
+		"twitter": "https://twitter.com/apibond",
+		"github": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apibond.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apibond.png",
+		"tags": null
+	},
+	{
+		"id": "qTtwxLxopV3moiJirhvKh03mRKbUN1W116cITnUGZdBmsesfjr3sCvlgloPnSvQwkVyqiyaq4tI8m8cRDBX7hbyQ117117",
 		"name": "Cloud Elements",
-		"summary": "Cloud Elements was built to simplify cloud application integrations and enable application developers to deliver ldquoCooperative Appsrdquo We use a ldquoonetomanyrdquo approach to connect your application with entire categories of cloud applications each through a single API Our clients include startups SaaS vendors and departments of enterprises who want to provide their customers with more inte",
-		"details": "Cloud Elements was built to simplify cloud application integrations and enable application developers to deliver ldquoCooperative Appsrdquo We use a ldquoonetomanyrdquo approach to connect your application with entire categories of cloud applications each through a single API Our clients include startups SaaS vendors and departments of enterprises who want to provide their customers with more integration options faster and for a fraction of the cost Our awesome team is rapidly building connections to the most popular cloud applications that your customers are using After just one year in business we were named APEX Technology Startup of 2013 Cloud Elements is based in Denver Colorado but our business reaches customers worldwide",
+		"summary": "Cloud Elements was built to simplify cloud application integrations and enable application developers to deliver &ldquo;Cooperative Apps&rdquo;. We use a &ldquo;one-to-many&rdquo; approach to connect your application with entire categories of cloud applications, each through a single API. Our clients include startups, SaaS vendors and departments of enterprises who want to provide their customers ",
+		"details": "Cloud Elements was built to simplify cloud application integrations and enable application developers to deliver &ldquo;Cooperative Apps&rdquo;. We use a &ldquo;one-to-many&rdquo; approach to connect your application with entire categories of cloud applications, each through a single API. Our clients include startups, SaaS vendors and departments of enterprises who want to provide their customers with more integration options, faster and for a fraction of the cost. Our awesome team is rapidly building connections to the most popular cloud applications that your customers are using. After just one year in business, we were named APEX Technology Startup of 2013. Cloud Elements is based in Denver, Colorado, but our business reaches customers worldwide.",
 		"website": "http://www.cloud-elements.com/",
 		"twitter": "https://twitter.com/CloudElements1",
 		"github": "https://github.com/cloud-elements",
@@ -12,13 +27,13 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloud-elements-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloud-elements-logo.png",
-		"tags": "Aggregation,Aggregation-Stack,API Aggregation,Cloud Computing"
+		"tags": null
 	},
 	{
-		"id": "11420",
+		"id": "116Cja8Tu6D1165HNzbVVVhBXLgZSF8odweypyq1231168onzfWheD123n16u7m69wvt0rjw812374taQIFARLVlwBVdXAWPDg117117",
 		"name": "CloudRail",
-		"summary": "CloudRail is the standard interface for the intelligent and interoperable Internet of tomorrow It is a universal API that works with any system and is able to automatically adapt to new services due to an innovative learning method With CloudRail the Internet becomes one huge ecosystem where everything works together immediately out of the box Software developers only have to use a single interfac",
-		"details": "CloudRail is the standard interface for the intelligent and interoperable Internet of tomorrow It is a universal API that works with any system and is able to automatically adapt to new services due to an innovative learning method With CloudRail the Internet becomes one huge ecosystem where everything works together immediately out of the box Software developers only have to use a single interface to access all services and thus can speed up the development process rapidly Service providers can finally create perfectly integrated solutions and realize benefits from a huge developer ecosystem",
+		"summary": "CloudRail is the standard interface for the intelligent and interoperable Internet of tomorrow. It is a universal API that works with any system and is able to automatically adapt to new services due to an innovative learning method. With CloudRail the Internet becomes one huge ecosystem where everything works together immediately out of the box. Software developers only have to use a single inter",
+		"details": "CloudRail is the standard interface for the intelligent and interoperable Internet of tomorrow. It is a universal API that works with any system and is able to automatically adapt to new services due to an innovative learning method. With CloudRail the Internet becomes one huge ecosystem where everything works together immediately out of the box. Software developers only have to use a single interface to access all services and thus can speed up the development process rapidly. Service providers can finally create perfectly integrated solutions and realize benefits from a huge developer ecosystem.",
 		"website": "https://wp2test.cloudrail.com/",
 		"twitter": "https://twitter.com/CloudRail",
 		"github": "",
@@ -27,13 +42,13 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CloudRail_Logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CloudRail_Logo.png",
-		"tags": "API Aggregation,API Integration"
+		"tags": null
 	},
 	{
-		"id": "1261",
+		"id": "WSkc3dFVIER14LG7JFFnNSXBw8tja116m123116D2MS5qQaB065123Na9yCGjWo2Ud116haialZuO123kqFXxGEJSInPUO116mPw117117",
 		"name": "Filepicker",
-		"summary": "Here at Filepickerio we are building the products that help connect the applications services and devices that people work with in their daily lives We believe that software should make your life easier by cooperating on your behalf to help you get things done",
-		"details": "Here at Filepickerio we are building the products that help connect the applications services and devices that people work with in their daily lives We believe that software should make your life easier by cooperating on your behalf to help you get things done",
+		"summary": "Here at Filepicker.io, we are building the products that help connect the applications, services, and devices that people work with in their daily lives. We believe that software should make your life easier by cooperating on your behalf to help you get things done.",
+		"details": "Here at Filepicker.io, we are building the products that help connect the applications, services, and devices that people work with in their daily lives. We believe that software should make your life easier by cooperating on your behalf to help you get things done.",
 		"website": "https://filepicker.io/",
 		"twitter": "https://twitter.com/FilePicker",
 		"github": "https://github.com/Filepicker",
@@ -42,13 +57,28 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/filepicker-logo.png",
 		"logo_width": "160",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/filepicker-logo.png",
-		"tags": "Aggregation,API Aggregation,Cloud,File Sharing,File Storage,File-sharing,File-Stack,Filesharing,JavaScript,Storage,Upload"
+		"tags": null
 	},
 	{
-		"id": "11403",
+		"id": "jsIDVUsoh0kVHGPuC1dA5RHQBEyiI6123K116FJVSlXN0Vvncb4FXqWyDWmKyrNLNbXq9kqm0NXg9kOOCTHL6CvTQg117117",
+		"name": "Kloudless",
+		"summary": "Kloudless connects the enterprise cloud and controls the data workflow across SaaS applications. We think content silos suck. Interconnected clouds are the future! Today, Kloudless is a simple, secure way to move attachments between Gmail/Outlook and other applications, ranging from cloud storage services to project management and CRM tools.",
+		"details": "Kloudless connects the enterprise cloud and controls the data workflow across SaaS applications. We think content silos suck. Interconnected clouds are the future! Today, Kloudless is a simple, secure way to move attachments between Gmail/Outlook and other applications, ranging from cloud storage services to project management and CRM tools.",
+		"website": "https://kloudless.com/",
+		"twitter": "https://twitter.com/kloudless",
+		"github": "https://github.com/Kloudless",
+		"blog": "http://blog.kloudless.com/",
+		"blogrss": "http://blog.kloudless.com/rss.xml",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/kloudless-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/kloudless-logo.png",
+		"tags": null
+	},
+	{
+		"id": "3mlTN63s8J6cWL4qWGow4j1MPeiSvLRQW6gZLCVZmZ74tLw2123E6GNVozICNEc1VLozID2LQi60JR6GsA7M1231167A117117",
 		"name": "Nylas Sync Engine",
-		"summary": "Nylas is building a new platform for emailpowered apps starting with simple REST APIs and infrastructure for developers The company was founded in 2013 by Michael Grinich and Christine Spang two MIT alums who set out to fix IMAP MIME and the fragmented world of email systems",
-		"details": "Nylas is building a new platform for emailpowered apps starting with simple REST APIs and infrastructure for developers The company was founded in 2013 by Michael Grinich and Christine Spang two MIT alums who set out to fix IMAP MIME and the fragmented world of email systems",
+		"summary": "Nylas is building a new platform for email-powered apps, starting with simple REST APIs and infrastructure for developers. The company was founded in 2013 by Michael Grinich and Christine Spang, two MIT alums who set out to fix IMAP, MIME, and the fragmented world of email systems.",
+		"details": "Nylas is building a new platform for email-powered apps, starting with simple REST APIs and infrastructure for developers. The company was founded in 2013 by Michael Grinich and Christine Spang, two MIT alums who set out to fix IMAP, MIME, and the fragmented world of email systems.",
 		"website": "https://www.nylas.com",
 		"twitter": "https://twitter.com/nilas",
 		"github": "https://github.com/nylas",
@@ -57,13 +87,13 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/nylas-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/nylas-logo.png",
-		"tags": "API Aggregation,Email,Email API,Messaging,Messaging-Stack"
+		"tags": null
 	},
 	{
-		"id": "1855",
+		"id": "99kEyhW6wWn0tH8123MpXuxYTt9JI91238MoFDus3K01iNFL123qmarzRuzxnjzjmwp8VLgk9TKbTHqszcpnoPIPMNPQ117117",
 		"name": "Outbound",
-		"summary": "Outbound is a automated messaging solution for product and marketing folks nbspThe platform enables you to deliver the content you need using templates for formatting and includion of customer data nbspThe Outbound API allows you to create deliver rules around events and when the even triggers Outbound tells your channel provider to deliver the customized message",
-		"details": "Outbound is a automated messaging solution for product and marketing folks nbspThe platform enables you to deliver the content you need using templates for formatting and includion of customer data nbspThe Outbound API allows you to create deliver rules around events and when the even triggers Outbound tells your channel provider to deliver the customized message",
+		"summary": "Outbound is a automated messaging solution for product and marketing folks. The platform enables you to deliver the content you need, using templates for formatting and includion of customer data. The Outbound API allows you to create deliver rules around events, and when the even triggers Outbound tells your channel provider to deliver the customized message.",
+		"details": "Outbound is a automated messaging solution for product and marketing folks. The platform enables you to deliver the content you need, using templates for formatting and includion of customer data. The Outbound API allows you to create deliver rules around events, and when the even triggers Outbound tells your channel provider to deliver the customized message.",
 		"website": "http://outbound.io/",
 		"twitter": "",
 		"github": "",
@@ -72,13 +102,13 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/outbound-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/outbound-logo.png",
-		"tags": "Aggregation,API Aggregation,Email,Messaging"
+		"tags": null
 	},
 	{
-		"id": "18645",
+		"id": "w62j1L3uiKYwUD1164WAlj0g754Wq98n116hwb8UgMKxK0OjjRJONBsfaYk123F228kC3cZ9q17s85UlY79ubC116z4E116A117117",
 		"name": "TaDaweb",
-		"summary": "The TaDaweb Creator lets you create advanced web recipes A web recipe can be compared to an automatic process that collects transforms and combines information They are quick and easy to create because they are based on human rather than computer logic Recipes can be created by users with TaDaweb also providing the option to create recipes on demand",
-		"details": "The TaDaweb Creator lets you create advanced web recipes A web recipe can be compared to an automatic process that collects transforms and combines information They are quick and easy to create because they are based on human rather than computer logic Recipes can be created by users with TaDaweb also providing the option to create recipes on demand",
+		"summary": "The TaDaweb Creator lets you create advanced web recipes. A web recipe can be compared to an automatic process that collects, transforms, and combines information. They are quick and easy to create because they are based on human, rather than computer logic. Recipes can be created by users, with TaDaweb also providing the option to create recipes on demand.",
+		"details": "The TaDaweb Creator lets you create advanced web recipes. A web recipe can be compared to an automatic process that collects, transforms, and combines information. They are quick and easy to create because they are based on human, rather than computer logic. Recipes can be created by users, with TaDaweb also providing the option to create recipes on demand.",
 		"website": "http://www.tadaweb.com/",
 		"twitter": "",
 		"github": "",
@@ -87,13 +117,13 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tadaweb-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tadaweb-logo.png",
-		"tags": "API Aggregation,API Reciprocity,Business-Intelligence-Stack"
+		"tags": null
 	},
 	{
-		"id": "18584",
+		"id": "nVBMEk059y123f721237zc0ZA2Gw5nt4sqo42m569qYE9VbtHDNJfCNhj2vADYQJWiGeR116KWYMl44xV116ghfcd55N7Q117117",
 		"name": "Treeline",
-		"summary": "Treeline makes it easy to build custom highperformance apps for Nodejs It is designed for building practical enterprisegrade backends in a matter of hours  not months",
-		"details": "Treeline makes it easy to build custom highperformance apps for Nodejs It is designed for building practical enterprisegrade backends in a matter of hours  not months",
+		"summary": "Treeline makes it easy to build custom, high-performance apps for Node.js. It is designed for building practical, enterprise-grade backends in a matter of hours - not months.",
+		"details": "Treeline makes it easy to build custom, high-performance apps for Node.js. It is designed for building practical, enterprise-grade backends in a matter of hours - not months.",
 		"website": "https://treeline.io/",
 		"twitter": "https://twitter.com/TreelineHQ",
 		"github": "https://github.com/treelinehq",
@@ -102,13 +132,13 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/treeline-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/treeline-logo.png",
-		"tags": "API Aggregation"
+		"tags": null
 	},
 	{
-		"id": "11755",
+		"id": "CKsfD8jcvgN72GePInPyilKRI545GaaCDFBsjtiXt4l6nigpvm8ZS116KX2123sa61llVi56rTm0uZzH5apFbpf1237g117117",
 		"name": "Venn",
-		"summary": "We are creating the nextgeneration mobile development platform in Cincinnati OH We know that to build a powerful app you rely on third party services and Venn provides a centralized authority into each of these services We strive to empower developers around the globe Venn provides fullstack solutions for API integration management feature redundancy data security version control performance monit",
-		"details": "We are creating the nextgeneration mobile development platform in Cincinnati OH We know that to build a powerful app you rely on third party services and Venn provides a centralized authority into each of these services We strive to empower developers around the globe Venn provides fullstack solutions for API integration management feature redundancy data security version control performance monitoring and usage analytics",
+		"summary": "We are creating the next-generation mobile development platform in Cincinnati, OH. We know that to build a powerful app, you rely on third party services, and Venn provides a centralized authority into each of these services. We strive to empower developers around the globe. Venn provides full-stack solutions for API integration management, feature redundancy, data security, version control, perfo",
+		"details": "We are creating the next-generation mobile development platform in Cincinnati, OH. We know that to build a powerful app, you rely on third party services, and Venn provides a centralized authority into each of these services. We strive to empower developers around the globe. Venn provides full-stack solutions for API integration management, feature redundancy, data security, version control, performance monitoring and usage analytics.",
 		"website": "https://www.getvenn.io/",
 		"twitter": "",
 		"github": "",
@@ -117,13 +147,13 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/venn-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/venn-logo.png",
-		"tags": "API Aggregation,API Integration"
+		"tags": null
 	},
 	{
-		"id": "53",
+		"id": "jdy6X8TNyogKV9fQKbyEfy6cl3gp51Sf7YYNlIuBWkiD6XAAQLIIe5x9iDUTywA24ALa8l5dZXiWTRp8VuT46A117117",
 		"name": "webshell_",
-		"summary": "Webshell is an API which allow you to access any data on the programmable web using API in a faster and an easier way You have just to send us some javascript via http and we process it on the fly to give you the response you wish in record timeThe Webshell API is pretty simple allowing you to easily integrate your webshell code inside your mobile and web apps You can run a prototypenbspornbspexec",
-		"details": "Webshell is an API which allow you to access any data on the programmable web using API in a faster and an easier way You have just to send us some javascript via http and we process it on the fly to give you the response you wish in record timeThe Webshell API is pretty simple allowing you to easily integrate your webshell code inside your mobile and web apps You can run a prototypenbspornbspexecute webshell code",
+		"summary": "nWebshell is an API which allow you to access any data on the programmable web using API in a faster and an easier way. You have just to send us some javascript via http and we process it on the fly to give you the response you wish in record time.nnThe Webshell API is pretty simple, allowing you to easily integrate your webshell code inside your mobile and web apps. You can run a prototypeorexecu",
+		"details": "nWebshell is an API which allow you to access any data on the programmable web using API in a faster and an easier way. You have just to send us some javascript via http and we process it on the fly to give you the response you wish in record time.nnThe Webshell API is pretty simple, allowing you to easily integrate your webshell code inside your mobile and web apps. You can run a prototypeorexecute webshell code.",
 		"website": "https://webshell.io",
 		"twitter": "https://twitter.com/Webshell_",
 		"github": "https://github.com/webshell",
@@ -132,6 +162,6 @@
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/webshell-logo.jpeg",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/webshell-logo.jpeg",
-		"tags": "API Aggregation,API Integration,Scripting-Platform,Scripting-Platforms"
+		"tags": null
 	}
 ]
