@@ -62,8 +62,8 @@
 	{
 		"id": "jsIDVUsoh0kVHGPuC1dA5RHQBEyiI6123K116FJVSlXN0Vvncb4FXqWyDWmKyrNLNbXq9kqm0NXg9kOOCTHL6CvTQg117117",
 		"name": "Kloudless",
-		"summary": "Kloudless connects the enterprise cloud and controls the data workflow across SaaS applications. We think content silos suck. Interconnected clouds are the future! Today, Kloudless is a simple, secure way to move attachments between Gmail/Outlook and other applications, ranging from cloud storage services to project management and CRM tools.",
-		"details": "Kloudless connects the enterprise cloud and controls the data workflow across SaaS applications. We think content silos suck. Interconnected clouds are the future! Today, Kloudless is a simple, secure way to move attachments between Gmail/Outlook and other applications, ranging from cloud storage services to project management and CRM tools.",
+		"summary": "Kloudless provides a single API to connect with over 20 different cloud storage services such as Box, Dropbox, Office 365 and more. Developers can save time integrating their apps with cloud storage by using Kloudlesss unified API. Kloudless also adds in new functionality such as event notifications even if the underlying API doesnt provide it, and provides UI tools such as a File Explorer to simp",
+		"details": "Kloudless provides a single API to connect with over 20 different cloud storage services such as Box, Dropbox, Office 365 and more. Developers can save time integrating their apps with cloud storage by using Kloudlesss unified API. Kloudless also adds in new functionality such as event notifications even if the underlying API doesnt provide it, and provides UI tools such as a File Explorer to simplify integration.",
 		"website": "https://kloudless.com/",
 		"twitter": "https://twitter.com/kloudless",
 		"github": "https://github.com/Kloudless",
