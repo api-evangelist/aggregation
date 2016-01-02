@@ -2,11 +2,113 @@
 layout: page
 title: API Aggregation
 ---
+<p style="font-size: 12px; padding:5px;">
+  <img src="{{ site.project_image }}" align="right" width="75" style="padding: 5px;" />
+  {{ site.project_summary }}
+</p>
 
-<p><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/trends/aggregation-trend.png" width="250" align="right" style="padding: 15px;" /></p>
-<p>We are depending on more APIs to drive our web and mobile applications. Even with the simplicity of indiviual web APIs, developing an application around multiple APIs can be very time consuming.</p>
-<p>In the course of developing a common mobile application a developer may end up using 10-15 APIs--APis for storage, images, email, SMS, voice, etc. Making development costs grow with each additional API.</p>
-<p>To help address this growing problem, one of the trends emerging in the API space is the aggregation of multiple APIs into a single interface or stack for developers to use, standardizing both interfaces and objects across potentially very disparate platforms.</p>
-<p>Innovative startups like <a href="http://singly.com/" target="_blank">Singly</a> apply these concepts with social and personal data, combining services like Twitter, Facebook, LinkedIn, Instagram and other services into single services.  Singly's goal is to shorten time for developers to get to finished app, by providing devs a fabric that weaves together common objects like friends, images, status and checkin into a aggregate API platform.</p>
-<p>There are other providers similar to Singly in the space, companies like <a href="http://adigami.com" target="_blank">Adigami</a> who aggregate Advertising APIs and <a href="http://fedapi.com" target="blank">FedAPI</a> for Government APIs.  This is nothing new,  we've seen the similar approach in cloud computing by providers like <a href="http://deltacloud.apache.org/" target="_blank">Delta Cloud</a>.</p> 
-<p>In this section i will be tracking news and companies that are doing interesting things around API aggregation, while also sharing blog analysis I provide on aggregation.</p>
+<center><hr style="padding: 5px 5px 5px 5px; margin: 5px; width: 85%;" /></center>
+<div class="row" style="vertical-align: top;" align="center">
+
+  <div class="span3" align="left" style="float: none; margin: 0 auto; display: inline-block; height: 100%; vertical-align: top;">
+
+    <p><strong><span style="font-size: 20px;">&#8620;</span>&nbsp;&nbsp;Top Links</strong></p>
+    <ul class="featurelist">
+      <li><a href="http://apis.how/hzp7kypxdw">Cloud Elements</a></li>
+      <li><a href="http://apis.how/d2wb7tqx27">Webshell</a></li>
+    </ul>
+
+  </div>
+  <div class="span3" align="left" style="float: none; margin: 0 auto; display: inline-block; height: 100%; vertical-align: top;">
+    <p><strong><span style="font-size: 20px;">&#8620;</span>&nbsp;&nbsp;Latest News</strong><a href="/blog.xml"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-icon.png" width="15" style="padding-left: 5px;" /></a></p>
+    <ul class="newslist">
+      {% for post in site.posts limit:2 %}
+        <li><a href="{{ post.source }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+
+  </div>
+  <div class="span3" align="left" style="float: none; margin: 0 auto; display: inline-block; height: 100%; vertical-align: top;">
+
+    <script type="text/javascript">
+      $url = 'http://apievangelist.com/blog.xml';
+      var $listcount = 0;
+      $.get($url, function (data) {
+          $(data).find("item").each(function () {
+              var el = $(this);
+              $title = el.find("title").text();
+              $link = el.find("link").text();
+              if($listcount<2){
+                $listitem = '<li><a href="' + $link + '">' + $title + '</a></li>';
+                $('#rssNews').append($listitem);
+                }
+              $listcount++;
+          });
+      });
+    </script>
+    <p><strong><span style="font-size: 20px;">&#8620;</span>&nbsp;&nbsp;Latest Analysis</strong><a href="http://apievangelist.com/blog.xml"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-icon.png" width="15" style="padding-left: 5px;" /></a></p>
+    <ul class="newslist" id="rssNews"></ul>
+
+  </div>
+</div>
+<center><hr style="padding: 5px; margin: 5px; width: 85%;" /></center>
+
+<div class="row" align="center" style="">
+
+  <div class="span5" style="float: none; margin: 0 auto; display: inline-block;" align="left">
+
+    <ul class="newslist" style="list-style: none; font-size: 14px; padding: 0px; margin: 0px;">
+      <li><a href="#"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-101.jpg" width="45" style="padding-right: 5px;" /><strong>&nbsp;&nbsp;Learn The Basics From This Research</strong></a></li>
+    </ul>
+
+  </div>
+
+  <div class="span5" style="float: none; margin: 0 auto; display: inline-block;" align="right">
+
+    <ul class="newslist" style="list-style: none; font-size: 14px; padding: 0px; margin: 0px;">
+      <li><a href="http://webhooks.apievangelist.com"><strong>Visit My Research On Webhooks&nbsp;&nbsp;<span style="font-size: 20px;">&#8667;</span></strong></a></li>
+    </ul>
+
+  </div>
+
+</div>
+<div class="row" align="center" style="">
+
+  <div class="span5" style="float: none; margin: 0 auto; display: inline-block;" align="left">
+
+    <ul class="newslist" style="list-style: none; font-size: 14px; padding: 0px; margin: 0px;">
+      <li><a href="#">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-journey.png" width="25" style="padding-right: 5px;" /><strong>&nbsp;&nbsp;&nbsp;Take a Journey Through Research</strong></a></li>
+    </ul>
+
+  </div>
+
+  <div class="span5" style="float: none; margin: 0 auto; display: inline-block;" align="right">
+
+    <ul class="newslist" style="list-style: none; font-size: 14px; padding: 0px; margin: 0px;">
+      <li><a href="http://reciprocity.apievangelist.com"><strong>Visit My Research Around API Reciprocity&nbsp;&nbsp;<span style="font-size: 20px;">&#8667;</span></strong></a></li>
+    </ul>
+
+  </div>
+
+</div>
+<div class="row" align="center" style="">
+
+  <div class="span5" style="float: none; margin: 0 auto; display: inline-block;" align="left">
+
+    <!--
+    <ul class="newslist" style="list-style: none; font-size: 14px; padding: 0px; margin: 0px;">
+      <li><a href="http://bit.ly/1ISZaev">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-pdf.png" width="22" style="padding-right: 5px;" /><strong>&nbsp;&nbsp;&nbsp;&nbsp;View the PDF of This Research</strong></a></li>
+    </ul>
+    -->
+
+  </div>
+
+  <div class="span5" style="float: none; margin: 0 auto; display: inline-block;" align="right">
+
+    <ul class="newslist" style="list-style: none; font-size: 14px; padding: 0px; margin: 0px;">
+      <li><a href="http://real-time.apievangelist.com"><strong>Visit My Research On Real-Time APIs&nbsp;&nbsp;<span style="font-size: 20px;">&#8667;</span></strong></a></li>
+    </ul>
+
+  </div>
+
+</div>
