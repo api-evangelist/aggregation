@@ -10,15 +10,11 @@ author:
   email:      'info@apievangelist.com'
 markdown:     kramdown
 
-permalink: /:categories/:year/:month/:day/:title
+permalink: /:categories/:year/:month/:day/:title/
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 
 paginate: 500
 paginate_path: "/news/page:num"
-
-production_url : http://aggregation.apievangelist.com
-
-BASE_PATH : http://aggregation.apievangelist.com
 
 categories_path : /categories.html
 tags_path : /tags.html
