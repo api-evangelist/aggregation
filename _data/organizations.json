@@ -489,32 +489,6 @@
 		]
 	},
 	{
-		"id": "3mlTN63s8J6cWL4qWGow4j1MPeiSvLRQW6gZLCVZmZ74tLw2123E6GNVozICNEc1VLozID2LQi60JR6GsA7M1231167A117117",
-		"name": "Nylas [deprecated!]",
-		"summary": "Nylas is building a new platform for email-powered apps, starting with simple REST APIs and infrastructure for developers. The company was founded in 2013 by Michael Grinich and Christine Spang, two MIT alums who set out to fix IMAP, MIME, and the fragmented world of email systems.",
-		"details": "Nylas is building a new platform for email-powered apps, starting with simple REST APIs and infrastructure for developers. The company was founded in 2013 by Michael Grinich and Christine Spang, two MIT alums who set out to fix IMAP, MIME, and the fragmented world of email systems.",
-		"website": "https://www.nylas.com",
-		"twitter": "https://twitter.com/nilas",
-		"github": "https://github.com/nylas",
-		"apisjson_url": "",
-		"sdksio_url": "",
-		"postman_url": "",
-		"portal_url": "https://github.com/nylas",
-		"base_url": "",
-		"blog": "https://www.nylas.com/blog",
-		"blogrss": "https://www.nylas.com/blog/feed.atom",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/nylas-logo.png",
-		"logo_width": "150",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/nylas-logo.png",
-		"tags": [
-			"Target",
-			"Messaging",
-			"Email API",
-			"API-Stack",
-			"Aggregation"
-		]
-	},
-	{
 		"id": "rGFPMpNZVn8LXW3jIYqMNp123Y0WuErEMvtrAwbtckCOhPXMb9JUUttsIC6sboJwAH0Mg116jik116hR90zYAUNHqcEw117117",
 		"name": "One Diary",
 		"summary": "One Diary is a service that allows you to share your work and personal calendars with people that are important to you. Both work and family life are requiring that they be more flexible in order to give their best to both. This inevitably means scheduling challenges as they juggle the demands of both. Knowing what their family is doing, and needs them to do, is fundamental if they are to make inf",
@@ -615,7 +589,7 @@
 	},
 	{
 		"id": "syd4vGlcvhE6sYEwpErSfqLk6uw5pEuOGrOSZGAhotAJtcttaIwHj0qrS1hca1H0CxkjmvDnFSprJ4HEcAhFIQ117117",
-		"name": "Refinder by Gnowsis",
+		"name": "Refinder",
 		"summary": "Refinder is the intelligent social software to collect and share information. Work together with colleagues, partners and customers and connect to enterprise systems. Refinder is based on open standards and the idea of the Semantic Web and the Social Semantic Desktop.It works on desktops, mobiles, in the cloud and on-premise. Plug-ins for enterprise systems and common desktop and online applicatio",
 		"details": "Refinder is the intelligent social software to collect and share information. Work together with colleagues, partners and customers and connect to enterprise systems. Refinder is based on open standards and the idea of the Semantic Web and the Social Semantic Desktop.It works on desktops, mobiles, in the cloud and on-premise. Plug-ins for enterprise systems and common desktop and online applications are available.",
 		"website": "http://www.getrefinder.com/about/content/developers",
