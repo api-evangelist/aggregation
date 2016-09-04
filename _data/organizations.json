@@ -145,9 +145,9 @@
 		"base_url": "",
 		"blog": "http://blog.bip.io/",
 		"blogrss": "http://blog.bip.io/rss",
-		"logo": "",
-		"logo_width": "0",
-		"screenshot": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bip_badge.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bip_badge.png",
 		"tags": [
 			"Social",
 			"iPaaS",
@@ -341,9 +341,9 @@
 		"base_url": "",
 		"blog": "",
 		"blogrss": "",
-		"logo": "",
-		"logo_width": "0",
-		"screenshot": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/FedAPI.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/FedAPI.png",
 		"tags": [
 			"Imports",
 			"Aggregation"
