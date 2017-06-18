@@ -1,9 +1,593 @@
 ---
-- curated_id: 127LnUJ116AFs5nIT116iTjlgkG0WE2uhPwFM2mj116uTuNslwdwCYnMkj1YMWj4uuAyOxcwGFij7y6SQ97123s1r0xHJA117117
-  item_date: '2017-05-11 11:35:36'
-  title: Tweet AWS Schema Conversion Tool now extracts from SQL Server data warehouses
-    httpstco2RMKhM9ICU httpstcobwLYzrSbd6
-  url: https://twitter.com/awscloud/statuses/862737972386385920
-  domain: twitter.com
-  image: ''
+- curated_id: aeb0a0211c87081ef4de0f83beeb90e5
+  item_date: "2012-12-18 18:02:19"
+  title: Four problems facing the API economy
+  url: http://www.adigami.com/
+  domain: www.adigami.com
+  image: ""
+- curated_id: 94352dc1fd64e210571cfc04534481d7
+  item_date: "2012-12-18 18:03:35"
+  title: 'Alcatel-Lucent: New API Aggregation Model To Accelerate Revenue Opportunities
+    | Ubergizmo'
+  url: http://www.ubergizmo.com/2010/02/alcatel-lucent-new-api-aggregation-model-to-accelerate-revenue-opportunities/
+  domain: www.ubergizmo.com
+  image: ""
+- curated_id: bf8b59f608e0f41e00e778c389ab3232
+  item_date: "2012-12-18 18:04:03"
+  title: API Copyright Would Restrict API Aggregation
+  url: http://apivoice.com/2012/12/08/api-copyright-would-restrict-api-aggregation/
+  domain: apivoice.com
+  image: ""
+- curated_id: 363ead8608a205003d4a746bd51748d6
+  item_date: "2012-12-18 18:05:37"
+  title: DeltaCloud API as a Service
+  url: https://dzone.com/articles/deltacloud-api-service
+  domain: dzone.com
+  image: ""
+- curated_id: b2483c1a41906153d29a83c446bed7a3
+  item_date: "2013-01-25 15:29:58"
+  title: YC-Backed Segment.io Lets Developers Integrate With Multiple Analytics Providers
+    In Hours, Not Weeks
+  url: https://techcrunch.com/2013/01/25/yc-backed-segment-io-lets-developers-integrate-with-multiple-analytics-providers-in-hours-not-weeks/
+  domain: techcrunch.com
+  image: ""
+- curated_id: a422fcabae0a6042e0d62e71634480d0
+  item_date: "2013-04-26 00:00:00"
+  title: '[New Whitepaper] Real-Time Data Aggregation'
+  url: http://blog.infochimps.com/2013/04/26/new-whitepaper-real-time-data-aggregation/
+  domain: blog.infochimps.com
+  image: ""
+- curated_id: cc3550731aee1b80e8a4c7abc5e6977b
+  item_date: "2013-04-29 00:00:00"
+  title: Kloudless Launches Service That Uses Connectors To Move Files Between Different
+    Cloud Services
+  url: https://techcrunch.com/2013/04/29/kloudless-launches-service-that-uses-connectors-to-move-files-between-different-cloud-services/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 9ac06087bdf86e693a830e5ad97d292d
+  item_date: "2013-04-30 00:00:00"
+  title: 'OPENi API Framework (Part I): Studying the landscape of cloud-based Services'
+  url: http://www.openi-ict.eu/openi-api-framework-part-i-studying-the-landscape-of-cloud-based-services/
+  domain: www.openi-ict.eu
+  image: ""
+- curated_id: 8ace5eae4141af545575243719af93d6
+  item_date: "2013-04-30 00:00:00"
+  title: 'Introducing Sockii: HTTP and WebSocket aggregator'
+  url: https://blog.serverdensity.com/introducing-sockii-http-and-websocket-aggregator/
+  domain: blog.serverdensity.com
+  image: ""
+- curated_id: fb8d1d2acd8ca973df1616aecf037d83
+  item_date: "2013-04-30 00:00:00"
+  title: Why did we create the Jolidrive and why it matters?
+  url: http://blog.jolicloud.com/2013/04/30/why-did-we-create-the-jolidrive-and-why-it-matters/
+  domain: blog.jolicloud.com
+  image: ""
+- curated_id: c7d8f721853b1c869acdfcfaa0a5f257
+  item_date: "2013-05-08 00:00:00"
+  title: Failed transaction rates by payment gateways
+  url: https://blog.spreedly.com/2013/05/08/failed-transaction-rates-by-payment-gateways/
+  domain: blog.spreedly.com
+  image: ""
+- curated_id: 8f95321063cce7ee34298633d7cdbbab
+  item_date: "2013-05-30 00:00:00"
+  title: Credit Card Data Portability ? Does anyone really care?
+  url: https://blog.spreedly.com/2013/05/30/credit-card-data-portability-does-anyone-really-care/
+  domain: blog.spreedly.com
+  image: ""
+- curated_id: 06ea1628efe64f4d45666d9f462b924f
+  item_date: "2013-06-03 12:37:28"
+  title: Trovebox - All your photos from Facebook, Instagram and Flickr in one place
+  url: https://trovebox.com/
+  domain: trovebox.com
+  image: ""
+- curated_id: f743a61724fc4ac74d966d84a02fa0d0
+  item_date: "2013-06-20 00:00:00"
+  title: Your SlideShare presentations now in your Jolidrive
+  url: http://blog.jolicloud.com/2013/06/20/your-slideshare-presentations-now-in-your-jolidrive/
+  domain: blog.jolicloud.com
+  image: ""
+- curated_id: c7d9c117e12952197544a3476b876223
+  item_date: "2013-07-03 00:00:00"
+  title: How Unified APIs can Lead to Business Growth
+  url: http://www.swiftiq.com/blog
+  domain: www.swiftiq.com
+  image: ""
+- curated_id: 3bd7eae938b39c67a29d6dca6bdc1279
+  item_date: "2013-07-04 00:00:00"
+  title: Jolidrive for iPad and iPhone
+  url: http://blog.jolicloud.com/2013/07/04/jolidrive-for-ipad-and-iphone/
+  domain: blog.jolicloud.com
+  image: ""
+- curated_id: 9ffd4ee4c04ed52660d8a51a69f86219
+  item_date: "2013-07-09 00:00:00"
+  title: Dump Truck ? Industrial Strength Cloud Storage
+  url: https://www.otixo.com/en/2013/07/09/dump-truck-industrial-strength-cloud-storage/
+  domain: www.otixo.com
+  image: ""
+- curated_id: 05f251c16ef2070fcf1e80e01ca79d51
+  item_date: "2013-08-22 00:00:00"
+  title: Braintree, TaskRabbit and the future of marketplaces
+  url: https://blog.spreedly.com/2013/08/22/braintree-taskrabbit-and-the-future-of-marketplaces/
+  domain: blog.spreedly.com
+  image: ""
+- curated_id: 29b17c0fa99cda64dbc9276abf4c3002
+  item_date: "2013-08-22 00:00:00"
+  title: Singly joins Appcelerator!
+  url: http://blog.singly.com/2013/08/22/singly-joins-appcelerator/
+  domain: blog.singly.com
+  image: ""
+- curated_id: 52630b2c4b20feda74c3da44646aec2b
+  item_date: "2013-10-24 00:00:00"
+  title: 'Announcing Jolicloud 2: A place to call home'
+  url: http://blog.jolicloud.com/2013/10/24/announcing-jolicloud-2-a-place-to-call-home/
+  domain: blog.jolicloud.com
+  image: ""
+- curated_id: 316f4cd9caaf5d83c4afa39876c615f8
+  item_date: "2013-12-19 00:00:00"
+  title: What?s In Your SaaS Stack ? Zapier CEO Wade Foster
+  url: https://www.fullcontact.com/blog/whats-saas-stack-zapier-ceo-wade-foster/
+  domain: www.fullcontact.com
+  image: ""
+- curated_id: f6e79d287549915282c9a124b5561df9
+  item_date: "2013-12-19 14:35:43"
+  title: 'API Aggregation: Why It Matters and Eight Different Models'
+  url: http://www.programmableweb.com/news/api-aggregation-why-it-matters-and-eight-different-models/2013/12/13
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: b52440520868e3fecc16659c4e648350
+  item_date: "2014-01-27 00:00:00"
+  title: Scoreoid?s gaming API joins Mashape
+  url: http://blog.mashape.com/mashape-updates-api-issues-terms-embed-button/
+  domain: blog.mashape.com
+  image: ""
+- curated_id: 159ce7e95f7f059192e4b9a118de9880
+  item_date: "2014-04-10 00:00:00"
+  title: Heartbleed? It?s ok. You?re home and safe with Jolicloud!
+  url: http://blog.jolicloud.com/2014/04/10/heartbleed-its-ok-youre-home-and-safe-with-jolicloud/
+  domain: blog.jolicloud.com
+  image: ""
+- curated_id: 041e5ae3b78f601ad0f88d3d586a6b6f
+  item_date: "2014-04-17 00:00:00"
+  title: APIs, Connectors and Integration Applications
+  url: http://blogs.mulesoft.com/dev/series-apis-connectors-integration-applications/
+  domain: blogs.mulesoft.com
+  image: ""
+- curated_id: 7c738ddac32ef8c6b791f4e42c9a6b66
+  item_date: "2014-05-29 00:00:00"
+  title: 'Why I?m Joining Orchestrate: Vision and Team'
+  url: https://orchestrate.io/blog/2014/05/29/why-im-joining-orchestrate-vision-and-team/
+  domain: orchestrate.io
+  image: ""
+- curated_id: a9fe90b5bdb36e778d2e06eb77904e90
+  item_date: "2014-05-30 00:00:00"
+  title: API Orchestration for the REST of us
+  url: http://www.chorusjs.com/
+  domain: www.chorusjs.com
+  image: ""
+- curated_id: cd4eba3613bfe8929d5cf9b24534d9cd
+  item_date: "2014-06-10 00:00:00"
+  title: An Update to Orchestrate User Authentication
+  url: https://orchestrate.io/blog/2014/06/10/userauth/
+  domain: orchestrate.io
+  image: ""
+- curated_id: 98b9d2a8d99331ff4259667e219947b2
+  item_date: "2014-06-13 00:00:00"
+  title: How to Test Code that Uses HTTP APIs using Node.js, Mocha, and Nock
+  url: https://www.ctl.io/developers/blog/post/http-apis-test-code
+  domain: www.ctl.io
+  image: ""
+- curated_id: 8b28944a38f76c38038c30a14ecb38d4
+  item_date: "2014-06-18 00:00:00"
+  title: Replicating CouchDB to Orchestrate
+  url: https://www.ctl.io/developers/blog/post/replicating-couchdb-to-orchestrate
+  domain: www.ctl.io
+  image: ""
+- curated_id: 47446353d824298e1cc579a39538c29c
+  item_date: "2014-06-20 00:00:00"
+  title: cURL vs HTTPie on the Command Line for HTTP APIs
+  url: https://www.ctl.io/developers/blog/post/curl-vs-httpie-http-apis
+  domain: www.ctl.io
+  image: ""
+- curated_id: 2860027a64363eb2e79875d857779bdf
+  item_date: "2014-06-23 00:00:00"
+  title: 'Server Generated Keys: Unique IDs for Distributed Databases'
+  url: https://www.ctl.io/developers/blog/post/server-generated-keys-unique-ids-for-distributed-databases
+  domain: www.ctl.io
+  image: ""
+- curated_id: 8c013e4446fe28db3d78c37d1ad94812
+  item_date: "2014-06-24 00:00:00"
+  title: Introducing the Orchestrate Ruby Gem
+  url: https://www.ctl.io/developers/blog/post/introducing-the-orchestrate-ruby-gem
+  domain: www.ctl.io
+  image: ""
+- curated_id: 34c2635c34a9851d7090a0a058249072
+  item_date: "2014-07-14 00:00:00"
+  title: Using FeedsAPI as a Media Monitoring Tool
+  url: http://www.feedsapi.com/blog/extract-useful-information-data-internet/
+  domain: www.feedsapi.com
+  image: ""
+- curated_id: 1d6a71b910f67daab0bf30d887986c66
+  item_date: "2014-07-17 00:00:00"
+  title: Using Orchestrate?s Graph Search with the Enron Emails
+  url: https://www.ctl.io/developers/blog/post/using-orchestrates-graph-search-with-the-enron-emails
+  domain: www.ctl.io
+  image: ""
+- curated_id: 3744e38386729ae5f256ac37e9b52157
+  item_date: "2014-07-22 00:00:00"
+  title: 'CouchDB and MongoDB: Let our query APIs combine!'
+  url: https://cloudant.com/blog/couchdb-and-mongodb-let-our-query-apis-combine/
+  domain: cloudant.com
+  image: ""
+- curated_id: f7671bbeda0d8ece8730365f571ba20c
+  item_date: "2014-07-23 00:00:00"
+  title: A Junior Programmer?s Guide to Orchestrate?s Database API
+  url: https://www.ctl.io/developers/blog/post/a-junior-programmers-guide-to-orchestrates-database-api
+  domain: www.ctl.io
+  image: ""
+- curated_id: 5364225f30e6fd1905d5f1530f43ed83
+  item_date: "2014-07-23 00:00:00"
+  title: Infobip to Offer Global SMS Capabilities Through Cloud Elements? Uniform
+    API
+  url: http://cloud-elements.com/infobip-offer-global-sms-capabilities-cloud-elements-uniform-api/
+  domain: cloud-elements.com
+  image: ""
+- curated_id: 3cabd3180023eb8d4da71be994f876ff
+  item_date: "2014-07-24 00:00:00"
+  title: Replicating MongoDB into Orchestrate
+  url: https://www.ctl.io/developers/blog/post/replicating-mongodb-into-orchestrate
+  domain: www.ctl.io
+  image: ""
+- curated_id: d0e56935791cf695068ac1ea702b1c8d
+  item_date: "2014-07-25 00:00:00"
+  title: Building an Anonymous Forum with Orchestrate Events
+  url: https://orchestrate.io/blog/2014/07/25/building-an-anonymous-forum-with-orchestrate-events/
+  domain: orchestrate.io
+  image: ""
+- curated_id: 7476c2c2e79096951525b28864212ae1
+  item_date: "2014-08-05 00:00:00"
+  title: Best Practices for Defining API Integration User Stories
+  url: http://blog.cloud-elements.com/best-practices-defining-api-integration-user-stories
+  domain: blog.cloud-elements.com
+  image: ""
+- curated_id: 57c59070c223ab116b47a5544434ac26
+  item_date: "2014-08-06 00:00:00"
+  title: 'All Data Are Belong to AWS: Streaming upload via Fluentd'
+  url: https://aws.amazon.com/blogs/aws/all-your-data-fluentd/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 1197fdb020a1b0bb5cfa0b8713f45d8b
+  item_date: "2014-08-08 00:00:00"
+  title: Calculating the Cost of API Integration
+  url: http://blog.cloud-elements.com/calculating-cost-api-integration
+  domain: blog.cloud-elements.com
+  image: ""
+- curated_id: 4077cba75108e254f9003c399a8da174
+  item_date: "2014-08-08 00:00:00"
+  title: Building the One True Database
+  url: https://www.ctl.io/developers/blog/post/building-the-one-true-database
+  domain: www.ctl.io
+  image: ""
+- curated_id: 273bbe434c9cad4ad791d5c97a01311a
+  item_date: "2014-08-12 00:00:00"
+  title: 'API Integrations: 5 Ways to Optimize the User Experience'
+  url: http://blog.cloud-elements.com/api-integrations-5-ways-optimize-user-experience
+  domain: blog.cloud-elements.com
+  image: ""
+- curated_id: 4c058ad885c2b1fb2d32c66ebc6e04c9
+  item_date: "2014-08-14 00:00:00"
+  title: 'Collaboration Nation: Countries now pooling data sources'
+  url: http://quantonemusic.com/blog/collaboration-nation/
+  domain: quantonemusic.com
+  image: ""
+- curated_id: 5c283b3081f920d1d6d00c7268f7b5bf
+  item_date: "2014-08-14 00:00:00"
+  title: Build Enterprise Mobile Apps with MBaaS and a Cross-platform Data Store
+  url: https://www.ctl.io/developers/blog/post/build-enterprise-mobile-apps-with-mbaas-and-a-cross-platform-data-store
+  domain: www.ctl.io
+  image: ""
+- curated_id: 1076fb1a094c511ed081b5e7d7d29ca0
+  item_date: "2014-12-03 00:00:00"
+  title: Save emails to Evernote, Wunderlist, Pocket, OneNote and more
+  url: //feedproxy.google.com/~r/CloudMagic/~3/PVrSOzDaHdQ/
+  domain: feedproxy.google.com
+  image: ""
+- curated_id: 891be1eed657adbe522714a9355f56c0
+  item_date: "2014-12-18 00:00:00"
+  title: API Management  Integrations with Elements Manager Connect to CRM and Marketing
+    Apps
+  url: http://blog.cloud-elements.com/api-management-integrations-elements-manager-connect-crm-marketing-apps
+  domain: blog.cloud-elements.com
+  image: ""
+- curated_id: 032501fb05af874d7bf767e67e48e6b2
+  item_date: "2015-01-22 10:50:00"
+  title: 'Slack + Uber: Get Uber Estimation Prices Before You Leave The Office'
+  url: https://docs.apitools.com/blog/2015/01/22/slack-uber-get-uber-estimation-prices-before-you-leave-the-office.html
+  domain: docs.apitools.com
+  image: ""
+- curated_id: e42980388f24aacdffcf54a0fbc4d042
+  item_date: "2015-02-16 00:00:00"
+  title: OpenStack Gets Drop-In Replacement for Amazon#039;s EC2 API
+  url: http://www.programmableweb.com/news/openstack-gets-drop-replacement-amazons-ec2-api/2015/02/16
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 7385a12f95f1294ff7581a664713b63f
+  item_date: "2015-03-16 00:00:00"
+  title: 'Google to Open Now API to Android Developers '
+  url: http://www.programmableweb.com/news/google-to-open-now-api-to-android-developers/2015/03/16
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 90e3ee04859ec0135613e72bdaf2063b
+  item_date: "2015-03-16 00:00:00"
+  title: Google Now Will Now Show All Information From Installed Apps
+  url: http://www.gizbot.com/apps/google-now-will-now-show-information-from-installed-apps-023519.html
+  domain: www.gizbot.com
+  image: ""
+- curated_id: 1c9bfbed7854c873e8740d348bc9a4ae
+  item_date: "2015-03-17 18:13:08"
+  title: An Open Google Now Is About to Make Android Super Smart
+  url: http://www.wired.com/2015/03/open-google-now-make-android-super-smart//mbid=social_twitter
+  domain: www.wired.com
+  image: ""
+- curated_id: 5d498b740db91c10d2053ef3b4c3cf6f
+  item_date: "2015-03-18 00:00:00"
+  title: Peach Payments Launches Smart Payments Platform
+  url: http://www.programmableweb.com/news/peach-payments-launches-smart-payments-platform/2015/03/18
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 220028ee3fe465280091c2b005c858e8
+  item_date: "2015-03-24 00:00:00"
+  title: 'Tickets to Issues: Zendesk and JIRA API Integrations'
+  url: http://blog.cloud-elements.com/tickets-to-issues-zendesk-and-jira-api-integrations-2
+  domain: blog.cloud-elements.com
+  image: ""
+- curated_id: 9604fb2d999d68c4680e5a4099afa5b8
+  item_date: "2015-03-24 00:00:00"
+  title: Twitter Sign-in with Treeline.io
+  url: https://blog.twitter.com/2015/guest-post-twitter-sign-in-with-treelineio
+  domain: blog.twitter.com
+  image: ""
+- curated_id: fbd73b39098fb19668553ae21da01c35
+  item_date: "2015-04-02 00:00:00"
+  title: AlchemyAPI Web Combined Call
+  url: http://www.alchemyapi.com/api/combined/urls.html
+  domain: www.alchemyapi.com
+  image: ""
+- curated_id: fb18ddf5f1f31690beb7e63d5b4dd384
+  item_date: "2015-04-29 00:00:00"
+  title: Microsoft announces preview for unified API endpoint for data in Office apps
+  url: http://venturebeat.com/2015/04/29/microsoft-announces-preview-for-unified-api-endpoint-for-data-in-office-apps/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 974ceba787685795899dc659be7f49fe
+  item_date: "2015-05-04 00:00:00"
+  title: We?re making it easier to access and use Sunlight?s data
+  url: http://sunlightfoundation.com/blog/2015/05/04/were-making-it-easier-to-access-and-use-sunlights-data/
+  domain: sunlightfoundation.com
+  image: ""
+- curated_id: 8d2d4ec6e8ea9f9dfd13c02611830b0a
+  item_date: "2015-05-07 00:00:00"
+  title: Sunlight Foundation to Roll Out a Unified API
+  url: http://www.programmableweb.com/news/sunlight-foundation-to-roll-out-unified-api/2015/05/07
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 3e9422566bbfc13073d3bdda851c646f
+  item_date: "2015-06-01 00:00:00"
+  title: Integrate Your Sales Pipeline Through The Pipedrive API
+  url: http://cloud-elements.com/integrate-your-sales-pipeline-through-the-pipedrive-api/
+  domain: cloud-elements.com
+  image: ""
+- curated_id: f6979b899c329921aa2b59b6b0496586
+  item_date: "2015-06-04 00:00:00"
+  title: 'Bringing Email Marketing and Help Desk Together: Mailjet  the Zendesk API'
+  url: http://cloud-elements.com/bringing-email-marketing-and-help-desk-together-mailjet-the-zendesk-api/
+  domain: cloud-elements.com
+  image: ""
+- curated_id: 4b27e675aa151a0673f69a7036469e42
+  item_date: "2015-06-10 00:00:00"
+  title: 'Introducing Element Mapper: First REST API for Data Mapping and Transformation'
+  url: http://cloud-elements.com/introducing-element-mapper-first-rest-api-for-data-mapping-and-transformation/
+  domain: cloud-elements.com
+  image: ""
+- curated_id: 1f1801c39c6fb17ca13b7d067ab3b78d
+  item_date: "2015-06-10 00:00:00"
+  title: Introducing PayPal and Card Payments in One API
+  url: https://blog.paymill.com/paymill-paypal-one-api/
+  domain: blog.paymill.com
+  image: ""
+- curated_id: 62753c6328442b060ce5a8f03ef4d9a7
+  item_date: "2015-06-11 00:00:00"
+  title: DocuSign API Prebuilt Integration Now Available
+  url: http://cloud-elements.com/docusign-api-prebuilt-integration-now-available/
+  domain: cloud-elements.com
+  image: ""
+- curated_id: 4b27eefeb31065bb461bd73d825840bf
+  item_date: "2015-06-11 00:00:00"
+  title: Cloud Elements Announces API for Data Mapping and Transformation
+  url: http://www.programmableweb.com/news/cloud-elements-announces-api-data-mapping-and-transformation/2015/06/11
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 2598b91bf09d1cd6d5e7b1623f847fdf
+  item_date: "2015-06-15 00:00:00"
+  title: Use Multiple APIs At Once With Combined Call
+  url: http://blog.alchemyapi.com/use-multiple-apis-at-once-with-combined-call
+  domain: blog.alchemyapi.com
+  image: ""
+- curated_id: 21b020af4169c516a97ef70d2a0076d7
+  item_date: "2015-06-16 00:00:00"
+  title: Appcelerator Arrow Builder?Multiple Post Blocks Salesforce/Geocode/Foursquare
+    Example
+  url: http://www.appcelerator.com/blog/2015/06/appcelerator-arrow-builder-multiple-post-blocks-example/
+  domain: www.appcelerator.com
+  image: ""
+- curated_id: ebccb28530ef2b25cc3e614209d6004b
+  item_date: "2015-06-19 00:00:00"
+  title: Influitive Integrations Powered by APIs
+  url: http://blog.cloud-elements.com/influitive-integrations-powered-by-apis
+  domain: blog.cloud-elements.com
+  image: ""
+- curated_id: d6692397b0909caabd6fc52589a05e44
+  item_date: "2015-06-23 00:00:00"
+  title: Setup a two-way sync between ActiveCampaign and Salesforce (and other apps)
+    using PieSync
+  url: http://www.activecampaign.com/blog/two-way-sync-between-activecampaign-and-other-apps-using-piesync/
+  domain: www.activecampaign.com
+  image: ""
+- curated_id: 2006b05bcdf801026eebf9be2fac8a0d
+  item_date: "2015-06-23 00:00:00"
+  title: SugarCRM API Search  Query Capabilities
+  url: http://cloud-elements.com/sugarcrm-api-search-query-capabilities/
+  domain: cloud-elements.com
+  image: ""
+- curated_id: 0a97faadfc3227bd3464add602bd78c6
+  item_date: "2015-06-23 00:00:00"
+  title: 'The Warewolf domain specific language: simple but powerful'
+  url: http://warewolf.io/ESB-blog/warewolf-domain-specific-language/
+  domain: warewolf.io
+  image: ""
+- curated_id: a2bd3ee5c82b104329ff441ebafb5e81
+  item_date: "2015-06-24 00:00:00"
+  title: Close.io integration
+  url: http://blog.clearbit.com/closeio
+  domain: blog.clearbit.com
+  image: ""
+- curated_id: 4ae7d1a9ccbcaef0e81d412544ffca66
+  item_date: "2015-06-30 00:00:00"
+  title: 'FreshBooks API Integration: Enable online invoicing through cloud accounting'
+  url: http://cloud-elements.com/freshbooks-api-integration-enable-online-invoicing-through-cloud-accounting/
+  domain: cloud-elements.com
+  image: ""
+- curated_id: c34a5efbf3f3a55486df8d03f2d08078
+  item_date: "2015-08-24 00:00:00"
+  title: Folder Monitoring for Google Drive and Dropbox
+  url: https://cloudconvert.com/blog/folder-monitoring-for-google-drive-and-dropbox/
+  domain: cloudconvert.com
+  image: ""
+- curated_id: aa3051b3c6a014e59c6561a0918e0e87
+  item_date: "2015-09-03 00:00:00"
+  title: New API Helps with Network Mashups
+  url: http://www.nextgenerationdigitalservices.com/topics/nextgenerationdigitalservices/articles/409427-new-api-helps-with-network-mashups.htm
+  domain: www.nextgenerationdigitalservices.com
+  image: ""
+- curated_id: 143ad0009b891df39f1d3d2566e36d60
+  item_date: "2015-09-10 00:00:00"
+  title: We?re Democratizing Integration with Built.io Flow Integration Platform-as-a-Service
+    (iPaaS)
+  url: https://www.built.io/blog/2015/09/become-an-integration-expert-instantly-with-built-io-flow-integration-platform-as-a-service-ipaas/
+  domain: www.built.io
+  image: ""
+- curated_id: 17001ea15efd306175485ff65852de11
+  item_date: "2015-11-05 00:00:00"
+  title: 'Launched: CloudRail Universal API. Integrate Everything.'
+  url: http://cloudrail.com/launched-cloudrail-universal-api-integrate-everything/
+  domain: cloudrail.com
+  image: ""
+- curated_id: f5868a09db365cd1027ed66e2ae0643c
+  item_date: "2015-12-23 00:00:00"
+  title: 'Criminal Data Broker Websites: Data Brokers That May Be Primary Source Aggregators
+    of Private Criminal Records Databases'
+  url: http://www.privacyrights.org/criminal-data-broker-websites
+  domain: www.privacyrights.org
+  image: ""
+- curated_id: 2e0dcd9ffeaca2c8f7c37441fdd5c3c1
+  item_date: "2016-01-19 00:00:00"
+  title: Easily Integrate Forms into your App with Mailgun and Form.io
+  url: http://blog.mailgun.com/easily-integrate-forms-into-your-application-with-mailgun-and-form-io/
+  domain: blog.mailgun.com
+  image: ""
+- curated_id: 207d234d1762255426d556904e43687f
+  item_date: "2016-02-02 00:00:00"
+  title: Denver?s Cloud Elements tripled clients, revenue in 2015
+  url: http://cloud-elements.com/denvers-cloud-elements-tripled-clients-revenue-in-2015/
+  domain: cloud-elements.com
+  image: ""
+- curated_id: b7cf6994561ec73526903b91a0a2dabb
+  item_date: "2016-02-04 00:00:00"
+  title: 'The Mashup Guide: Unlock Your Apps Potential by Combining APIs'
+  url: http://blog.alchemyapi.com/the-mashup-guide-unlock-your-apps-potential-by-combining-apis
+  domain: blog.alchemyapi.com
+  image: ""
+- curated_id: 8cf22313569029d1b1cc4688507946ce
+  item_date: "2016-02-19 00:00:00"
+  title: Built.io Flow Update Includes Over 400 New Integrations
+  url: http://www.programmableweb.com/news/built.io-flow-update-includes-over-400-new-integrations/2016/02/19
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 5e545ad30bea6eb85ad218c348089712
+  item_date: "2016-03-09 15:55:01"
+  title: IGG Software - Financial Data Platform Solutions
+  url: http://www.yodlee.com/resource/igg-software/
+  domain: www.yodlee.com
+  image: ""
+- curated_id: 0d1345c6bf51316728324f2195993ac7
+  item_date: "2016-03-24 00:00:00"
+  title: It Is Not You Being Evil I Worry About, It Is You Being Greedy And Priveleged
+  url: http://kinlane.com/2016/03/25/it-is-not-you-being-evil-i-worry-about-it-is-you-being-greedy-and-priveleged
+  domain: kinlane.com
+  image: ""
+- curated_id: 553948861f39d2e13bacf26b58a0f776
+  item_date: "2016-03-29 00:00:00"
+  title: Cabalot ? Compare the price of Lyft and Uber in one app
+  url: http://www.cabalotapp.com/
+  domain: www.cabalotapp.com
+  image: ""
+- curated_id: 04d432ab607af20444305866cdc6d54b
+  item_date: "2016-03-29 00:00:00"
+  title: Smart Alerts for Anomaly Detection and Data Aggregations
+  url: https://dzone.com/articles/smart-alerts-for-anomaly-detection-and-data-aggreg
+  domain: dzone.com
+  image: ""
+- curated_id: 56d84715e6c18f66f57352f6c7ccfeae
+  item_date: "2016-03-30 00:00:00"
+  title: Finicity Launches TxPUSH to Create Financial Data Aggregation Standard
+  url: http://bankinnovation.net/2016/03/finicity-launches-txpush-to-create-financial-data-aggregation-standard/
+  domain: bankinnovation.net
+  image: ""
+- curated_id: d745eb0cd83c07dbce153a011a0622ff
+  item_date: "2016-03-31 10:00:00"
+  title: The Definitive Guide to API Integrations
+  url: http://resources.cloud-elements.com/h/i/232813135-the-definitive-guide-to-api-integrations-ebook
+  domain: resources.cloud-elements.com
+  image: ""
+- curated_id: d92f13e1c73d799f620369e09ffa02ce
+  item_date: "2016-05-03 00:00:00"
+  title: Microsoft Graph Unifies Access to All APIs
+  url: http://www.infoq.com/news/2016/05/microsoft-graph-unify-api-access
+  domain: www.infoq.com
+  image: ""
+- curated_id: 49be5287bf0df9e69adb72e1dbd5bb2a
+  item_date: "2016-06-21 00:00:00"
+  title: Scribe Gives Integration Developers Greater Control With Expanded API Capabilities
+  url: http://worldnews.se/business/2016/06/21/scribe-gives-integration-developers-greater-control-with-expanded-api-capabilities/
+  domain: worldnews.se
+  image: ""
+- curated_id: 96f56478f931893fc3a2212ed5d3e20b
+  item_date: "2016-08-24 00:00:00"
+  title: Kloudless Introduces Universal CRM Integration with New API
+  url: http://www.programmableweb.com/news/kloudless-introduces-universal-crm-integration-new-api/brief/2016/08/24
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: b4f026789fe7b89aeadfcd58426622b4
+  item_date: "2016-09-01 00:00:00"
+  title: Kloudless API v1 Launches Today
+  url: https://blog.kloudless.com/2016/09/01/kloudless-api-v1-launches-today/
+  domain: blog.kloudless.com
+  image: ""
+- curated_id: ccac45a73db4e20fd72bfb28ebbbb7aa
+  item_date: "2016-09-23 00:00:00"
+  title: High-Tech Bridge Updates its Unified SSL Assessment API
+  url: http://www.programmableweb.com/news/high-tech-bridge-updates-its-unified-ssl-assessment-api/announcement/2016/09/23
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 47754cb2f1ee42c50cd8c3fa188d8a86
+  item_date: "2016-10-03 00:00:00"
+  title: API Abstractions to Accelerate the Development Process?
+  url: http://www.codeproject.com/Articles/1136094/API-Abstractions-to-Accelerate-the-Development-P
+  domain: www.codeproject.com
+  image: ""
+- curated_id: e66c8badbf5b47034fcfdc4b3abca07d
+  item_date: "2016-10-13 10:12:09"
+  title: Struggling with code to optimize how you chain APIs for advanced data analytics?
+  url: https://community.havenondemand.com/t5/Blog/Getting-started-with-HPE-Haven-OnDemand-Combinations/ba-p/3270
+  domain: community.havenondemand.com
+  image: ""
 ...
