@@ -1,0 +1,208 @@
+vocabulary: "1.0.0"
+
+info:
+  provider: Aggregation
+  description: Vocabulary for the API aggregation topic, covering unified APIs, API marketplaces, directories, catalogs, and data aggregation platforms.
+  created: '2026-04-19'
+  modified: '2026-04-19'
+
+operational:
+  apis:
+    - name: RapidAPI Hub
+      namespace: rapidapi
+      status: active
+    - name: Merge Unified API
+      namespace: merge
+      status: active
+    - name: Apideck Unified API
+      namespace: apideck
+      status: active
+    - name: APIs.guru Directory
+      namespace: apis-guru
+      status: active
+    - name: Backstage Catalog
+      namespace: backstage
+      status: active
+
+  resources:
+    - name: apis
+      description: Individual API entries in a catalog or marketplace
+      actions:
+        - list
+        - get
+        - search
+        - subscribe
+    - name: providers
+      description: API providers or vendors listed in a marketplace or directory
+      actions:
+        - list
+        - get
+    - name: unified-resources
+      description: Normalized resources exposed by a unified API across multiple underlying providers
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - delete
+    - name: connections
+      description: Authenticated connections to underlying provider APIs via a unified platform
+      actions:
+        - create
+        - get
+        - list
+        - delete
+    - name: webhooks
+      description: Event-driven data push from underlying providers to the unified API consumer
+      actions:
+        - create
+        - list
+        - delete
+
+  actions:
+    - name: list
+      description: Enumerate resources
+      httpMethod: GET
+      pattern: read
+    - name: get
+      description: Retrieve a single resource
+      httpMethod: GET
+      pattern: read
+    - name: search
+      description: Search for APIs or resources by criteria
+      httpMethod: GET
+      pattern: query
+    - name: subscribe
+      description: Subscribe to an API in a marketplace
+      httpMethod: POST
+      pattern: write
+    - name: create
+      description: Create a new resource or connection
+      httpMethod: POST
+      pattern: write
+    - name: update
+      description: Update an existing resource
+      httpMethod: PUT
+      pattern: write
+    - name: delete
+      description: Remove a resource or connection
+      httpMethod: DELETE
+      pattern: destructive
+
+  schemas:
+    core:
+      - name: UnifiedAPI
+        description: A unified API aggregation layer over multiple providers
+        properties:
+          - name
+          - category
+          - providers
+          - base_url
+          - authentication
+          - normalized_schema
+      - name: APICatalogEntry
+        description: An API entry in a marketplace or directory
+        properties:
+          - name
+          - description
+          - provider
+          - category
+          - base_url
+          - documentation_url
+          - openapi_url
+          - pricing_model
+          - authentication_types
+          - tags
+
+  enums:
+    unified_api_categories:
+      - HR
+      - CRM
+      - Accounting
+      - ATS
+      - File Storage
+      - E-Commerce
+      - Financial
+    pricing_models:
+      - free
+      - freemium
+      - paid
+      - usage-based
+    authentication_types:
+      - bearer
+      - apikey
+      - oauth2
+      - basic
+
+capability:
+  workflows:
+    - name: Unified HR Integration
+      description: Sync employee data from HR systems via a unified API without building per-provider integrations
+      apis:
+        - merge
+        - apideck
+      personas:
+        - Integration Developer
+      domains:
+        - Unified API
+    - name: API Discovery and Subscription
+      description: Discover APIs in a marketplace and subscribe for access
+      apis:
+        - rapidapi
+      personas:
+        - API Consumer
+      domains:
+        - API Marketplace
+    - name: Internal API Catalog Management
+      description: Register, document, and govern internal APIs in an organizational catalog
+      apis:
+        - backstage
+      personas:
+        - Platform Engineer
+      domains:
+        - API Governance
+
+  personas:
+    - id: integration-developer
+      name: Integration Developer
+      description: Developers building application integrations using unified APIs
+      workflows:
+        - Unified HR Integration
+    - id: api-consumer
+      name: API Consumer
+      description: Developers discovering and using APIs from marketplaces and directories
+      workflows:
+        - API Discovery and Subscription
+    - id: platform-engineer
+      name: Platform Engineer
+      description: Engineers managing internal API catalogs and governance
+      workflows:
+        - Internal API Catalog Management
+
+  domains:
+    - name: Unified API
+      description: Platforms that normalize multiple provider APIs under a single interface
+    - name: API Marketplace
+      description: Platforms for discovering, subscribing to, and monetizing APIs
+    - name: API Governance
+      description: Practices and tools for managing, documenting, and governing APIs across an organization
+
+crossReference:
+  - resource: unified-resources
+    operations:
+      - list
+      - get
+      - create
+    workflows:
+      - Unified HR Integration
+    personas:
+      - Integration Developer
+  - resource: apis
+    operations:
+      - list
+      - search
+      - subscribe
+    workflows:
+      - API Discovery and Subscription
+    personas:
+      - API Consumer

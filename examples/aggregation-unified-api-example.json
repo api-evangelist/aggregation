@@ -1,0 +1,14 @@
+{
+  "name": "Merge HR API",
+  "description": "Unified API for syncing employee data across BambooHR, Workday, ADP, and 50+ other HR systems.",
+  "category": "HR",
+  "providers": [
+    { "name": "BambooHR", "status": "active" },
+    { "name": "Workday", "status": "active" },
+    { "name": "ADP", "status": "active" },
+    { "name": "Gusto", "status": "active" }
+  ],
+  "base_url": "https://api.merge.dev/api/hris/v1",
+  "authentication": { "type": "bearer" },
+  "normalized_schema": true
+}

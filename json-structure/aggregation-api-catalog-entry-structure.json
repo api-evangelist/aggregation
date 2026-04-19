@@ -1,0 +1,83 @@
+{
+  "$schema": "https://json-structure.org/meta/core/v0/#",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/aggregation/refs/heads/main/json-structure/aggregation-api-catalog-entry-structure.json",
+  "name": "APICatalogEntry",
+  "description": "An entry in an API catalog or directory describing a single API provider.",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Name of the API.",
+      "example": "Stripe Payments API"
+    },
+    "description": {
+      "type": "string",
+      "description": "Brief description of the API's functionality.",
+      "example": "Accept payments, send payouts, and manage subscriptions with Stripe's payments API."
+    },
+    "provider": {
+      "type": "string",
+      "description": "Company or organization providing the API.",
+      "example": "Stripe"
+    },
+    "category": {
+      "type": "string",
+      "description": "Business domain category of the API.",
+      "example": "Payments"
+    },
+    "base_url": {
+      "type": "uri",
+      "description": "Base URL of the API.",
+      "example": "https://api.stripe.com"
+    },
+    "documentation_url": {
+      "type": "uri",
+      "description": "URL to the API's documentation.",
+      "example": "https://stripe.com/docs/api"
+    },
+    "openapi_url": {
+      "type": "uri",
+      "description": "URL to an OpenAPI specification for this API.",
+      "example": "https://raw.githubusercontent.com/stripe/openapi/master/openapi/spec3.json"
+    },
+    "pricing_model": {
+      "type": "string",
+      "enum": [
+        "free",
+        "freemium",
+        "paid",
+        "usage-based"
+      ],
+      "description": "Pricing model for accessing this API.",
+      "example": "usage-based"
+    },
+    "authentication_types": {
+      "type": "array",
+      "description": "Authentication methods supported by this API.",
+      "items": {
+        "type": "string"
+      },
+      "example": [
+        "bearer",
+        "apikey"
+      ]
+    },
+    "tags": {
+      "type": "array",
+      "description": "Tags categorizing this API.",
+      "items": {
+        "type": "string"
+      },
+      "example": [
+        "Payments",
+        "Finance",
+        "E-Commerce"
+      ]
+    }
+  },
+  "required": [
+    "name",
+    "provider",
+    "category"
+  ]
+}

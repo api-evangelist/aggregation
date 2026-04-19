@@ -1,0 +1,12 @@
+{
+  "name": "Stripe Payments API",
+  "description": "Accept payments, send payouts, and manage subscriptions with Stripe's payments API.",
+  "provider": "Stripe",
+  "category": "Payments",
+  "base_url": "https://api.stripe.com",
+  "documentation_url": "https://stripe.com/docs/api",
+  "openapi_url": "https://raw.githubusercontent.com/stripe/openapi/master/openapi/spec3.json",
+  "pricing_model": "usage-based",
+  "authentication_types": ["bearer", "apikey"],
+  "tags": ["Payments", "Finance", "E-Commerce"]
+}

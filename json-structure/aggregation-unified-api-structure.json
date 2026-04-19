@@ -1,0 +1,85 @@
+{
+  "$schema": "https://json-structure.org/meta/core/v0/#",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/aggregation/refs/heads/main/json-structure/aggregation-unified-api-structure.json",
+  "name": "UnifiedAPI",
+  "description": "Represents a unified API aggregation layer that exposes multiple underlying provider APIs through a single normalized interface.",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Name of the unified API platform.",
+      "example": "Merge HR API"
+    },
+    "description": {
+      "type": "string",
+      "description": "Description of what the unified API covers.",
+      "example": "Unified API for syncing employee data across BambooHR, Workday, ADP, and 50+ other HR systems."
+    },
+    "category": {
+      "type": "string",
+      "description": "Business category covered by the unified API.",
+      "enum": [
+        "HR",
+        "CRM",
+        "Accounting",
+        "ATS",
+        "File Storage",
+        "E-Commerce",
+        "Financial",
+        "Other"
+      ],
+      "example": "HR"
+    },
+    "providers": {
+      "type": "array",
+      "description": "List of underlying API providers aggregated by this unified API.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "example": "BambooHR"
+          },
+          "status": {
+            "type": "string",
+            "enum": [
+              "active",
+              "beta",
+              "deprecated"
+            ],
+            "example": "active"
+          }
+        }
+      }
+    },
+    "base_url": {
+      "type": "uri",
+      "description": "Base URL of the unified API.",
+      "example": "https://api.merge.dev/api/hris/v1"
+    },
+    "authentication": {
+      "type": "object",
+      "description": "Authentication mechanism for the unified API.",
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": [
+            "bearer",
+            "apikey",
+            "oauth2"
+          ],
+          "example": "bearer"
+        }
+      }
+    },
+    "normalized_schema": {
+      "type": "boolean",
+      "description": "Whether the API normalizes response schemas across all underlying providers.",
+      "example": true
+    }
+  },
+  "required": [
+    "name",
+    "category"
+  ]
+}
