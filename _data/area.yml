@@ -1,0 +1,203 @@
+meta:
+  name: Aggregation
+  description: An index and topic collection covering API aggregation, marketplaces,
+    directories, unified APIs, and catalog platforms. API aggregation brings together
+    multiple APIs under a single interface, simplifying integration, reducing maintenance
+    overhead, and enabling consistent authentication and data normalization across
+    disparate services. This collection includes API marketplaces like RapidAPI, unified
+    API platforms like Merge and Apideck, API directories like APIs.guru and APIs.io,
+    web scraping aggregators, and open-source catalog tools like Backstage.
+  tags:
+  - API Aggregation
+  - API Directory
+  - API Marketplace
+  portal: https://apievangelist.com
+  github: https://github.com/api-evangelist
+  repo: aggregation
+services_tools:
+- name: Alloy Automation
+  repo: https://github.com/api-evangelist/alloy-automation
+  apisio: https://providers.apis.io/providers/alloy-automation/
+- name: Any-API
+  repo: https://github.com/api-evangelist/any-api
+  apisio: https://providers.apis.io/providers/any-api/
+- name: API Harmony
+  repo: https://github.com/api-evangelist/api-harmony
+  apisio: https://providers.apis.io/providers/api-harmony/
+- name: API Layer
+  repo: https://github.com/api-evangelist/api-layer
+  apisio: https://providers.apis.io/providers/api-layer/
+- name: API Stack
+  repo: https://github.com/api-evangelist/api-stack
+  apisio: https://providers.apis.io/providers/api-stack/
+- name: Apideck
+  repo: https://github.com/api-evangelist/apideck
+  apisio: https://providers.apis.io/providers/apideck/
+- name: Apify
+  repo: https://github.com/api-evangelist/apify
+  apisio: https://providers.apis.io/providers/apify/
+- name: APIpark
+  repo: https://github.com/api-evangelist/apipark
+  apisio: https://providers.apis.io/providers/apipark/
+- name: APIs.guru
+  repo: https://github.com/api-evangelist/apis-guru
+  apisio: https://providers.apis.io/providers/apis-guru/
+- name: APIs.io
+  repo: https://github.com/api-evangelist/apis-io
+  apisio: https://providers.apis.io/providers/apis-io/
+- name: APIs.json
+  repo: https://github.com/api-evangelist/apis-json
+  apisio: https://providers.apis.io/providers/apis-json/
+- name: Backstage
+  repo: https://github.com/api-evangelist/backstage
+  apisio: https://providers.apis.io/providers/backstage/
+- name: Blobr
+  repo: https://github.com/api-evangelist/blobr
+  apisio: https://providers.apis.io/providers/blobr/
+- name: Bright Data
+  repo: https://github.com/api-evangelist/bright-data
+  apisio: https://providers.apis.io/providers/bright-data/
+- name: Codat
+  repo: https://github.com/api-evangelist/codat
+  apisio: https://providers.apis.io/providers/codat/
+- name: Composio
+  repo: https://github.com/api-evangelist/composio
+  apisio: https://providers.apis.io/providers/composio/
+- name: Datafiniti
+  repo: https://github.com/api-evangelist/datafiniti
+  apisio: https://providers.apis.io/providers/datafiniti/
+- name: DigitalAPI
+  repo: https://github.com/api-evangelist/digitalapi
+  apisio: https://providers.apis.io/providers/digitalapi/
+- name: Diffbot
+  repo: https://github.com/api-evangelist/diffbot
+  apisio: https://providers.apis.io/providers/diffbot/
+- name: Finverse
+  repo: https://github.com/api-evangelist/finverse
+  apisio: https://providers.apis.io/providers/finverse/
+- name: Hotglue
+  repo: https://github.com/api-evangelist/hotglue
+  apisio: https://providers.apis.io/providers/hotglue/
+- name: Import.io
+  repo: https://github.com/api-evangelist/import-io
+  apisio: https://providers.apis.io/providers/import-io/
+- name: Merge
+  repo: https://github.com/api-evangelist/merge
+  apisio: https://providers.apis.io/providers/merge/
+- name: Nango
+  repo: https://github.com/api-evangelist/nango
+  apisio: https://providers.apis.io/providers/nango/
+- name: Optic
+  repo: https://github.com/api-evangelist/optic
+  apisio: https://providers.apis.io/providers/optic/
+- name: Paragon
+  repo: https://github.com/api-evangelist/paragon
+  apisio: https://providers.apis.io/providers/paragon/
+- name: Plaid
+  repo: https://github.com/api-evangelist/plaid
+  apisio: https://providers.apis.io/providers/plaid/
+- name: Postman
+  repo: https://github.com/api-evangelist/postman
+  apisio: https://providers.apis.io/providers/postman/
+- name: ProgrammableWeb
+  repo: https://github.com/api-evangelist/programmableweb
+  apisio: https://providers.apis.io/providers/programmableweb/
+- name: Public APIs
+  repo: https://github.com/api-evangelist/public-apis
+  apisio: https://providers.apis.io/providers/public-apis/
+- name: RapidAPI
+  repo: https://github.com/api-evangelist/rapidapi
+  apisio: https://providers.apis.io/providers/rapidapi/
+- name: Rutter
+  repo: https://github.com/api-evangelist/rutter
+  apisio: https://providers.apis.io/providers/rutter/
+- name: SaaSHub
+  repo: https://github.com/api-evangelist/saashub
+  apisio: https://providers.apis.io/providers/saashub/
+- name: ScrapingBee
+  repo: https://github.com/api-evangelist/scrapingbee
+  apisio: https://providers.apis.io/providers/scrapingbee/
+- name: SmartBear
+  repo: https://github.com/api-evangelist/smartbear
+  apisio: https://providers.apis.io/providers/smartbear/
+- name: Stoplight
+  repo: https://github.com/api-evangelist/stoplight
+  apisio: https://providers.apis.io/providers/stoplight/
+- name: SwaggerHub
+  repo: https://github.com/api-evangelist/swaggerhub
+  apisio: https://providers.apis.io/providers/swaggerhub/
+- name: Tray.io
+  repo: https://github.com/api-evangelist/tray-io
+  apisio: https://providers.apis.io/providers/tray-io/
+- name: Unified.to
+  repo: https://github.com/api-evangelist/unified-to
+  apisio: https://providers.apis.io/providers/unified-to/
+- name: Vessel
+  repo: https://github.com/api-evangelist/vessel
+  apisio: https://providers.apis.io/providers/vessel/
+- name: Workato
+  repo: https://github.com/api-evangelist/workato
+  apisio: https://providers.apis.io/providers/workato/
+- name: Zyla
+  repo: https://github.com/api-evangelist/zyla
+  apisio: https://providers.apis.io/providers/zyla/
+features:
+- name: Unified API Interface
+  description: API aggregation platforms expose multiple underlying APIs through a
+    single, standardized interface, reducing the integration burden for developers.
+- name: API Marketplaces and Discovery
+  description: API directories and marketplaces like RapidAPI, APIs.guru, and APIs.io
+    help developers discover, evaluate, and subscribe to APIs from multiple providers.
+- name: Data Normalization
+  description: Unified API platforms like Merge and Apideck normalize data schemas
+    across disparate HR, CRM, and accounting systems into a consistent model.
+- name: Authentication Abstraction
+  description: Aggregation layers handle OAuth, API keys, and other authentication
+    flows across multiple providers, presenting a single auth interface to the consumer.
+- name: API Catalogs and Internal Discovery
+  description: Internal API catalog tools like Backstage and Stoplight enable organizations
+    to document, discover, and govern APIs across the enterprise.
+- name: Web Scraping as API
+  description: Platforms like Bright Data, Apify, and ScrapingBee aggregate web data
+    and expose it through structured APIs, removing the need for custom scraper maintenance.
+use_cases:
+- name: Unified HR and CRM Integration
+  description: Unified API platforms like Merge and Apideck enable applications to
+    sync with dozens of HR systems (BambooHR, Workday, ADP) through a single normalized
+    API.
+- name: API Marketplace Distribution
+  description: API providers publish their APIs to marketplaces like RapidAPI to reach
+    new developer audiences and monetize access through tiered subscription plans.
+- name: Internal API Governance
+  description: Organizations use API catalogs like Backstage or Stoplight to document,
+    version, and govern internal APIs across product teams.
+- name: Financial Data Aggregation
+  description: Platforms like Plaid and Codat aggregate financial account data from
+    banks and accounting systems into normalized APIs for fintech applications.
+- name: AI Agent Tool Federation
+  description: Aggregation platforms like Composio expose hundreds of third-party
+    APIs as unified tool sets that AI agents can discover and invoke.
+integrations:
+- name: RapidAPI
+  description: The largest API marketplace with 40,000+ APIs available to developers
+    through a unified subscription and API key model.
+- name: Merge
+  description: Unified API for HR, payroll, accounting, CRM, and ATS integrations
+    across 100+ providers.
+- name: Apideck
+  description: Unified API platform for CRM, file storage, accounting, and e-commerce
+    integrations.
+- name: Composio
+  description: API aggregation platform enabling AI agents to use 100+ apps as structured
+    tools.
+- name: Backstage
+  description: Open-source developer portal and API catalog platform from Spotify
+    for internal service discovery.
+- name: APIs.guru
+  description: Open-source directory of machine-readable API specifications (OpenAPI)
+    maintained by the community.
+- name: Plaid
+  description: Financial data aggregation platform connecting apps to bank accounts
+    and financial institutions.
+- name: Nango
+  description: Open-source unified API for OAuth integrations across 200+ apps.

@@ -1,0 +1,22 @@
+title: Aggregation
+description: An index and topic collection covering API aggregation, marketplaces,
+  directories, unified APIs, and catalog platforms. API aggregation brings together
+  multiple APIs under a single interface, simplifying integration, reducing maintenance
+  overhead, and enabling consistent authentication and data normalization across disparate
+  services. This collection includes API marketplaces like RapidAPI, unified API platforms
+  like Merge and Apideck, API directories like APIs.guru and APIs.io, web scraping
+  aggregators, and open-source catalog tools like Backstage.
+url: https://aggregation.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary
