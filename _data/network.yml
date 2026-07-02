@@ -1,0 +1,21 @@
+related:
+- name: Plugin
+  url: https://plugin.apievangelist.com
+  icon: https://plugin.apievangelist.com/icon.png
+  description: An index and topic collection covering plugin, extension, and add-on architectures with
+    public APIs and marketplaces. This collection spans editor and IDE plugin ecosystems (VS…
+- name: Portal
+  url: https://portal.apievangelist.com
+  icon: https://portal.apievangelist.com/icon.png
+  description: A curated index of services, tooling, and open source solutions for API developer portals,
+    API catalogs, API marketplaces, and developer experience platforms. This collection…
+- name: Unified APIs
+  url: https://unified-apis.apievangelist.com
+  icon: https://unified-apis.apievangelist.com/icon.png
+  description: This is the index of unified API service and tooling repos being tracked by the API Evangelist
+    network. Unified APIs (also called integration hubs, API aggregators, or universal…
+- name: Logging
+  url: https://logging.apievangelist.com
+  icon: https://logging.apievangelist.com/icon.png
+  description: An index and topic collection covering log ingestion, log search, log aggregation, and
+    log pipeline services. Logging platforms collect event records from applications,…
