@@ -1,5 +1,6 @@
 aid: aggregation
 name: Aggregation
+kind: topic
 description: >-
   An index and topic collection covering API aggregation, marketplaces, directories, unified APIs, and catalog platforms. API aggregation brings together multiple APIs under a single interface, simplifying
   integration, reducing maintenance overhead, and enabling consistent authentication and data normalization across disparate services. This collection includes API marketplaces like RapidAPI, unified API
