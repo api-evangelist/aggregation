@@ -1,7 +1,7 @@
 ---
-title: 'MCP Explained: Why Every Directory Needs a Model Context Protocol Server'
-link: https://directories.ai/blog/mcp-explained-why-every-directory-needs-a-server
-published: '2026-01-15'
+title: 'The MCP Revolution: Connecting Your Directory to Any AI Assistant'
+link: https://directories.ai/blog/mcp-revolution-directory-ai-assistant
+published: '2026-04-18'
 provider: directories-ai
 repo: https://github.com/api-evangelist/directories-ai
 domain: directories.ai
